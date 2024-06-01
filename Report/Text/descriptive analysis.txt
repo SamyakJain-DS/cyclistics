@@ -1,0 +1,45 @@
+avg length of a ride is 15:06
+max length of a ride is 06:50:31 ,by a casual member
+mode length of a ride is 00:06:00
+
+difference in duration
+avg duration of a casual is 22 mins 03 secs
+avg duration of a member is 11 mins 36 secs
+
+this shows that a casual member, on an average is riding longer than a member of the company,
+which shows the need of the service.
+
+difference in no of trips taken
+no. of trips taken by members is close to double that of the casuals
+no of trips increased after people bought memberships
+
+difference in the weekdays when the trips are taken
+On the fridays,saturdays and sundays, the difference multiplier between the
+casuals and members drops below that of total rides taken.
+implying, that on fridays,saturdays and sundays members are less likely to rent a bike
+whereas casuals are more likely to use bikes on weekends
+one implication of this data can be that office workers or college students usually need memberships
+to attend their offices or institutions on the weekdays
+the difference is highest on tuesdays, 2.6x compared to the total's difference multiplier of 2.0x
+
+one thing to note about duration of trips is that casuals usually take bikes for longer trips
+while members are more flexible in their usage, and use bikes for shorter durations on an average
+
+IN TOTAL, members have used the bike for 4214.2 Days,whereas Casuals have used them for
+4031.5 Days , making a difference of almost 200 days worth of time.
+
+onto our season analysis,
+its noted that members use bikes WAY MORE than casuals in the winter seasons,
+whereas the difference multiplier in hotter months is equal or lower than the total difference multiplier.
+in winters, the difference multiplier goes all the way up to 3.7x, compared the to total multiplier which is 2.0x
+One way to asses this information could be that in winters, people buy membership to stay warm and fit.
+or that people just dont prefer using bikes in hot months, probably due to better alternatives like car, which can keep them cool while driving.
+
+
+ 
+
+
+
+ 
+
+

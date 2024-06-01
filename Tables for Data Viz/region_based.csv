@@ -1,0 +1,2306 @@
+member_casual,start_station_name,count(*)
+"casual","DuSable Museum",47
+"casual","Robert Fulton Elementary School",4
+"casual","California Ave & Milwaukee Ave",820
+"casual","Campbell Ave & Montrose Ave",116
+"casual","California Ave & Division St",272
+"casual","Kimbark Ave & 67th St",8
+"casual","Wood St & Chicago Ave",296
+"casual","Chicago State University",30
+"casual","Western Ave & Roscoe St",225
+"casual","Kedzie Ave & Lake St",55
+"casual","Kenosha & Wellington",51
+"casual","Burnham Greenway & 105th St",32
+"member","California Ave & Milwaukee Ave",1056
+"casual","Public Rack - Laramie Ave & Grand Ave",9
+"casual","Morgan Ave & 14th Pl",158
+"casual","Central Park Ave & Douglas Blvd",9
+"casual","Orange & Addison",24
+"casual","Public Rack - Chase Ave & Touhy Ave - NW",2
+"casual","Vernon Ave & 107th St",18
+"casual","Cottage Grove Ave & 51st St",81
+"casual","Avenue O & 134th St",26
+"member","Western Ave & Roscoe St",431
+"member","California Ave & Division St",329
+"member","Wood St & Chicago Ave",683
+"member","Kenosha & Wellington",60
+"member","Campbell Ave & Montrose Ave",247
+"member","Cottage Grove Ave & 51st St",158
+"member","DuSable Museum",69
+"member","Morgan Ave & 14th Pl",505
+"member","Vernon Ave & 107th St",9
+"member","Kedzie Ave & Lake St",85
+"member","Public Rack - Laramie Ave & Grand Ave",1
+"casual","La Villita Park (Albany/30th)",11
+"casual","Western Ave & 105th St",1
+"member","Chicago State University",90
+"member","Canal St & Madison St",2675
+"casual","Field Museum",1609
+"member","Larrabee St & Armitage Ave",858
+"member","Franklin St & Chicago Ave",1171
+"member","Lakefront Trail & Bryn Mawr Ave",620
+"member","Dearborn St & Monroe St",2042
+"member","Canal St & Taylor St",680
+"member","Wood St & Milwaukee Ave",1197
+"member","California Ave & Fletcher St",243
+"member","Michigan Ave & Pearson St",1186
+"member","Shields Ave & 28th Pl",481
+"casual","Shedd Aquarium",1771
+"member","Sedgwick St & Schiller St",343
+"member","Sheffield Ave & Wrightwood Ave",1124
+"member","Shedd Aquarium",683
+"member","Wood St & Augusta Blvd",613
+"casual","Southport Ave & Wrightwood Ave",691
+"casual","Dorchester Ave & 49th St",66
+"casual","Kedzie Ave & Milwaukee Ave",1076
+"casual","Christiana Ave & Lawrence Ave",139
+"casual","Broadway & Wilson - Truman College Vaccination Site",94
+"member","Broadway & Wilson - Truman College Vaccination Site",126
+"member","Southport Ave & Roscoe St",2673
+"member","Daley Center Plaza",2516
+"casual","Southport Ave & Roscoe St",1252
+"member","Lakeview Ave & Fullerton Pkwy",2065
+"casual","Daley Center Plaza",955
+"member","N Green St & W Lake St",757
+"casual","Michigan Ave & Pearson St",812
+"casual","Lakeview Ave & Fullerton Pkwy",1123
+"casual","N Green St & W Lake St",309
+"member","Western Ave & Fillmore St",1079
+"casual","Western Ave & Fillmore St",186
+"member","Michigan Ave & Madison St",1034
+"member","Wabash Ave & Adams St",1195
+"member","Halsted St & Maxwell St",1316
+"casual","Michigan Ave & Madison St",678
+"casual","Wabash Ave & Adams St",582
+"member","Southport Ave & Wrightwood Ave",1194
+"casual","Sedgwick St & Schiller St",172
+"member","Sedgwick St & Huron St",1796
+"member","Paulina St & Flournoy St",1232
+"member","Clinton St & Madison St",2789
+"member","Ashland Ave & Blackhawk St",856
+"member","Damen Ave & Pershing Rd",36
+"casual","Clark St & Columbia Ave",138
+"casual","Halsted St & 64th St",1
+"member","DuSable Lake Shore Dr & Monroe St",844
+"casual","Troy St & Elston Ave",144
+"member","Glenwood Ave & Touhy Ave",205
+"member","Clark St & Columbia Ave",333
+"casual","Damen Ave & Pershing Rd",36
+"member","Lake Park Ave & 56th St",1496
+"member","Bissell St & Armitage Ave*",1147
+"member","Sheffield Ave & Waveland Ave",2589
+"member","Rush St & Superior St",1773
+"casual","Sheffield Ave & Waveland Ave",1619
+"member","California Ave & Winona St",151
+"casual","DuSable Lake Shore Dr & Monroe St",2335
+"member","Cornell Ave & Hyde Park Blvd",519
+"member","Carpenter St & Huron St",1235
+"casual","Ridge Blvd & Touhy Ave",67
+"member","Clybourn Ave & Division St",962
+"member","Lake Park Ave & 53rd St",884
+"casual","Cottage Grove Ave & 83rd St",26
+"member","Pine Grove Ave & Irving Park Rd",2277
+"member","Ogden Ave & Chicago Ave",1690
+"casual","Lake Park Ave & 53rd St",416
+"casual","Sedgwick St & Huron St",617
+"casual","Burling St & Diversey Pkwy",857
+"member","Field Museum",473
+"member","Delano Ct & Roosevelt Rd",996
+"casual","Sheffield Ave & Wrightwood Ave",555
+"casual","Western Ave & 111th St",21
+"member","Damen Ave & Leland Ave",823
+"member","Burling St & Diversey Pkwy",2072
+"member","Ravenswood Ave & Lawrence Ave",2565
+"member","Greenview Ave & Diversey Pkwy",989
+"member","Wilton Ave & Diversey Pkwy*",355
+"member","Paulina Ave & North Ave",1027
+"member","Halsted St & Polk St",3527
+"member","Clark St & Bryn Mawr Ave",1158
+"member","Burnham Harbor",1091
+"member","Eckhart Park",1091
+"member","Sheffield Ave & Willow St",1354
+"member","Orleans St & Hubbard St",1266
+"casual","Eckhart Park",441
+"casual","Sheffield Ave & Willow St",503
+"casual","Kedzie Ave & Roosevelt Rd",23
+"casual","Burnham Harbor",631
+"member","Cottage Grove Ave & 43rd St",211
+"casual","Clark St & Bryn Mawr Ave",453
+"casual","Leavitt St & Belmont Ave",316
+"casual","Cottage Grove Ave & 43rd St",62
+"casual","Orleans St & Hubbard St",427
+"member","Bosworth Ave & Howard St",151
+"member","2112 W Peterson Ave",100
+"casual","Ravenswood Ave & Lawrence Ave",1004
+"casual","Pine Grove Ave & Irving Park Rd",1051
+"member","Troy St & Elston Ave",257
+"member","Kingsbury St & Kinzie St",2636
+"member","Larrabee St & Webster Ave",1488
+"member","Dearborn St & Van Buren St",387
+"member","Clark St & Newport St",1454
+"member","Wentworth Ave & Cermak Rd",584
+"casual","Greenview Ave & Diversey Pkwy",517
+"casual","Wentworth Ave & Cermak Rd",432
+"casual","Wilton Ave & Diversey Pkwy*",187
+"member","Wilton Ave & Belmont Ave",1921
+"member","Loomis St & Archer Ave",108
+"member","Sangamon St & Washington Blvd",1071
+"member","Broadway & Granville Ave",833
+"member","Southport Ave & Waveland Ave",1584
+"casual","Sangamon St & Washington Blvd",329
+"casual","St. Clair St & Erie St",581
+"casual","Southport Ave & Waveland Ave",668
+"casual","Halsted St & 35th St",150
+"casual","Clark St & Lunt Ave",181
+"casual","Broadway & Granville Ave",432
+"member","Halsted St & 35th St",367
+"member","Clark St & Lunt Ave",381
+"member","Broadway & Argyle St",693
+"member","Michigan Ave & Washington St",1509
+"casual","Leavitt St & Armitage Ave",208
+"member","Leavitt St & Armitage Ave",482
+"casual","Dearborn St & Monroe St",772
+"member","Throop St & Taylor St",699
+"member","Morgan St & 18th St",440
+"casual","Lakefront Trail & Bryn Mawr Ave",608
+"member","Canal St & Monroe St",1278
+"member","Damen Ave & Pierce Ave",766
+"casual","Michigan Ave & 8th St",548
+"casual","Artesian Ave & Hubbard St",94
+"casual","Milwaukee Ave & Grand Ave",355
+"casual","Racine Ave & Fullerton Ave",213
+"member","Larrabee St & Kingsbury St",1322
+"casual","Damen Ave & Pierce Ave",431
+"casual","Racine Ave & Belmont Ave",344
+"casual","Canal St & Monroe St",298
+"member","Racine Ave & Fullerton Ave",740
+"casual","Racine Ave & 15th St",74
+"member","Racine Ave & 15th St",199
+"member","Milwaukee Ave & Grand Ave",925
+"member","Campbell Ave & North Ave",767
+"member","Paulina St & Howard St",263
+"casual","Pulaski Rd & Lake St",18
+"casual","Michigan Ave & Oak St",3212
+"member","Base - 2132 W Hubbard Warehouse",4
+"member","Michigan Ave & Oak St",2213
+"member","Sheridan Rd & Irving Park Rd",1855
+"member","Broadway & Barry Ave",2906
+"member","Leavitt St & Belmont Ave",404
+"casual","McClurg Ct & Ohio St",880
+"member","McClurg Ct & Ohio St",1906
+"member","Wood St & Taylor St (Temp)",907
+"member","Adler Planetarium",422
+"casual","Adler Planetarium",917
+"member","Stetson Ave & South Water St",1222
+"casual","Hoyne Ave & Balmoral Ave",137
+"casual","Sheffield Ave & Fullerton Ave",1384
+"casual","State St & 95th St",45
+"casual","Honore St & Division St",696
+"casual","Mies van der Rohe Way & Chestnut St",841
+"casual","Ashland Ave & Grace St",402
+"casual","Ashland Ave & Wrightwood Ave",328
+"casual","Damen Ave & Thomas St (Augusta Blvd)",370
+"member","Mies van der Rohe Way & Chestnut St",1610
+"member","Sheffield Ave & Fullerton Ave",2945
+"member","Ashland Ave & Wrightwood Ave",509
+"member","Paulina St & 18th St",596
+"member","Rockwell St & Fletcher St",120
+"member","MLK Jr Dr & 29th St",924
+"member","Clark St & Grace St",806
+"member","Sedgwick St & Webster Ave",841
+"casual","Clark St & Grace St",281
+"casual","MLK Jr Dr & 29th St",109
+"casual","Sedgwick St & Webster Ave",261
+"casual","Clark St & North Ave",221
+"member","Clark St & North Ave",512
+"member","Sheridan Rd & Montrose Ave",1008
+"member","Clark St & Armitage Ave",1972
+"member","Dodge Ave & Church St",82
+"casual","Clark St & Wellington Ave",627
+"member","Clark St & Wellington Ave",1453
+"casual","Halsted St & Roscoe St",699
+"member","Halsted St & Roscoe St",1322
+"casual","Clark St & Armitage Ave",971
+"casual","Sheridan Rd & Montrose Ave",339
+"member","Walsh Park",798
+"member","Monticello Ave & Irving Park Rd",128
+"member","Rush St & Hubbard St",816
+"casual","Rush St & Hubbard St",311
+"casual","Aberdeen St & Jackson Blvd",298
+"member","Shore Dr & 55th St",807
+"casual","Carpenter St & Huron St",450
+"casual","Southport Ave & Clark St",131
+"casual","Clinton St & Madison St",728
+"member","Southport Ave & Clark St",232
+"casual","Loomis St & Archer Ave",60
+"casual","Ashland Ave & Blackhawk St",340
+"member","Southport Ave & Belmont Ave",1580
+"casual","Winthrop Ave & Lawrence Ave",380
+"member","Dearborn Pkwy & Delaware Pl",1954
+"member","St. Louis Ave & Fullerton Ave",405
+"member","Winthrop Ave & Lawrence Ave",742
+"casual","2112 W Peterson Ave",48
+"member","Smith Park",247
+"member","Dayton St & North Ave",1169
+"casual","Ashland Ave & 13th St",56
+"member","Green St & Randolph St*",317
+"casual","Greenview Ave & Jarvis Ave",165
+"casual","Dayton St & North Ave",557
+"casual","Green St & Randolph St*",244
+"member","Greenview Ave & Jarvis Ave",354
+"member","Clark St & Lincoln Ave",1951
+"member","Michigan Ave & 14th St",1151
+"member","Leavitt St & Addison St",227
+"member","Clinton St & Washington Blvd",3111
+"member","California Ave & Cortez St",351
+"casual","Michigan Ave & 14th St",388
+"member","Clark St & 9th St (AMLI)",285
+"member","Paulina St & Montrose Ave",340
+"casual","Clark St & Lincoln Ave",1138
+"casual","Ashland Ave & Wellington Ave",193
+"casual","Clark St & 9th St (AMLI)",147
+"casual","Clinton St & Washington Blvd",707
+"member","Ashland Ave & Wellington Ave",469
+"casual","Fairbanks Ct & Grand Ave",477
+"casual","Broadway & Barry Ave",1491
+"casual","Sheridan Rd & Irving Park Rd",906
+"member","Orleans St & Elm St",747
+"member","Base - 2132 W Hubbard",28
+"member","Noble St & Milwaukee Ave",928
+"casual","Orleans St & Elm St",262
+"casual","Lawndale Ave & 30th St",39
+"casual","Base - 2132 W Hubbard",14
+"casual","Noble St & Milwaukee Ave",381
+"member","Hoyne Ave & Balmoral Ave",293
+"member","Desplaines St & Kinzie St",3552
+"casual","Desplaines St & Kinzie St",1201
+"casual","Orleans St & Chestnut St (NEXT Apts)",611
+"casual","Francisco Ave & Montrose Ave",92
+"member","Orleans St & Chestnut St (NEXT Apts)",1291
+"casual","Richmond St & Lincoln Ave",26
+"casual","Western Ave & Ardmore Ave",28
+"member","Ravenswood Ave & Irving Park Rd",402
+"casual","Ravenswood Ave & Irving Park Rd",156
+"casual","Benson Ave & Church St",505
+"member","Clark St & Schiller St",2441
+"member","Sheridan Rd & Lawrence Ave",1087
+"casual","Sheridan Rd & Lawrence Ave",312
+"casual","Clark St & Schiller St",917
+"casual","Western Ave & Granville Ave",63
+"member","Wolcott (Ravenswood) Ave & Montrose Ave",740
+"casual","Cornell Ave & Hyde Park Blvd",243
+"casual","Shore Dr & 55th St",405
+"casual","Wentworth Ave & 33rd St",88
+"casual","Glenwood Ave & Touhy Ave",82
+"member","Wentworth Ave & 33rd St",329
+"member","Michigan Ave & 8th St",558
+"member","Racine Ave & Belmont Ave",494
+"member","Artesian Ave & Hubbard St",301
+"casual","Larrabee St & Kingsbury St",255
+"member","Fairbanks Ct & Grand Ave",1182
+"casual","California Ave & Cortez St",202
+"casual","Paulina St & Montrose Ave",103
+"casual","Western Ave & 104th St",22
+"member","Indiana Ave & 26th St",250
+"member","Ashland Ave & Belle Plaine Ave",285
+"casual","Stetson Ave & South Water St",447
+"casual","Hale Ave & 107th St",19
+"casual","Clybourn Ave & Division St",258
+"member","Canal St & Jackson Blvd",1729
+"member","Clark St & Elmdale Ave",494
+"member","Warren Park West",156
+"member","Columbus Dr & Randolph St",1205
+"member","Chicago Ave & Washington St",223
+"casual","Columbus Dr & Randolph St",810
+"casual","Hampden Ct & Diversey Ave",241
+"casual","Clark St & Elmdale Ave",225
+"casual","Clark St & Chicago Ave",516
+"member","Kedzie Ave & Chicago Ave",58
+"member","Clark St & Chicago Ave",907
+"member","Hampden Ct & Diversey Ave",483
+"member","State St & 33rd St",1624
+"member","Western Ave & Gunnison St",78
+"casual","Canal St & Jackson Blvd",553
+"member","Albany Ave & Bloomingdale Ave",553
+"casual","Albany Ave & Bloomingdale Ave",357
+"casual","Western Ave & Gunnison St",56
+"member","Halsted St & 37th St",44
+"casual","California Ave & Francis Pl (Temp)",187
+"casual","Lincoln Ave & Addison St",128
+"casual","Leavitt St & North Ave",402
+"casual","Dearborn Pkwy & Delaware Pl",728
+"casual","St. Louis Ave & Fullerton Ave",211
+"casual","Public Rack - Spaulding Ave & North Ave",15
+"casual","Sawyer Ave & Irving Park Rd",123
+"casual","MTV Hubbard St",41
+"member","Greenview Ave & Fullerton Ave",1475
+"member","Canal St & Adams St",3578
+"member","Humboldt Blvd & Armitage Ave",487
+"member","Sheridan Rd & Buena Ave",1538
+"member","Leavitt St & Chicago Ave",765
+"member","Broadway & Waveland Ave",2398
+"member","Franklin St & Monroe St",1936
+"member","Michigan Ave & Jackson Blvd",902
+"casual","Franklin St & Monroe St",462
+"casual","Stave St & Armitage Ave",219
+"casual","State St & Randolph St",914
+"member","State St & Randolph St",1775
+"member","Lincoln Ave & Diversey Pkwy",1321
+"casual","Millennium Park",2440
+"member","Theater on the Lake",1711
+"casual","Theater on the Lake",1597
+"member","Pine Grove Ave & Waveland Ave",1245
+"member","State St & Pearson St",611
+"member","Damen Ave & Division St",597
+"member","Millennium Park",1321
+"casual","Damen Ave & Division St",258
+"casual","Pine Grove Ave & Waveland Ave",487
+"casual","LaSalle St & Adams St",150
+"member","Wells St & Concord Ln",4679
+"member","Sheridan Rd & Argyle St",645
+"casual","Canal St & Taylor St",265
+"casual","Michigan Ave & Washington St",1034
+"casual","Broadway & Argyle St",353
+"casual","Throop St & Taylor St",166
+"casual","Wood St & Milwaukee Ave",581
+"casual","Larrabee St & Armitage Ave",467
+"casual","Morgan St & 18th St",282
+"casual","Franklin St & Chicago Ave",494
+"casual","California Ave & Fletcher St",178
+"casual","Kedzie Ave & 21st St",27
+"casual","Claremont Ave & Hirsch St",115
+"casual","Western Ave & Walton St",451
+"casual","Clark St & Leland Ave",572
+"casual","Warren Park East",78
+"casual","Drake Ave & Montrose Ave",115
+"casual","Racine Ave & Randolph St",326
+"casual","Kedzie Ave & 110th St",28
+"member","Clark St & Leland Ave",1464
+"member","Western Ave & Walton St",906
+"casual","Sheridan Rd & Loyola Ave",198
+"casual","Clark St & Elm St",1048
+"casual","Ogden Ave & Congress Pkwy",64
+"casual","Wabash Ave & 9th St",886
+"member","Damen Ave & Cullerton St",174
+"member","Clinton St & Roosevelt Rd",1196
+"member","Western Ave & Leland Ave",574
+"member","Clark St & Elm St",2669
+"member","Sheridan Rd & Loyola Ave",261
+"member","Wabash Ave & 9th St",1472
+"member","Damen Ave & Cortland St",1091
+"member","Sheffield Ave & Wellington Ave",1743
+"member","Oakley Ave & Touhy Ave",57
+"member","Eastlake Ter & Rogers Ave",7
+"member","Aberdeen St & Randolph St",1036
+"member","Clark St & Randolph St",1212
+"member","Sheffield Ave & Kingsbury St",1289
+"member","Orleans St & Merchandise Mart Plaza",2706
+"member","Clark St & Ida B Wells Dr",966
+"member","Wells St & Elm St",3246
+"member","Buckingham Fountain",209
+"member","Wacker Dr & Washington St",1093
+"member","St. Clair St & Erie St",2078
+"member","Prairie Ave & 43rd St",72
+"member","Public Rack - Campbell Ave & Pratt Blvd",6
+"member","Buckingham Fountain (Temp)",32
+"member","Bernard St & Elston Ave",191
+"member","University Ave & 57th St",4186
+"casual","Buckingham Fountain (Temp)",38
+"casual","California Ave & North Ave",171
+"casual","Wacker Dr & Washington St",267
+"member","Broadway & Berwyn Ave",808
+"member","LaSalle Dr & Huron St",1017
+"member","Elizabeth (May) St & Fulton St",41
+"casual","Wabash Ave & Wacker Pl",672
+"casual","Broadway & Cornelia Ave",870
+"member","Leavitt St & Lawrence Ave",253
+"member","Michigan Ave & Lake St",1667
+"member","Clarendon Ave & Gordon Ter",2197
+"member","Racine Ave & Washington Blvd",682
+"member","Lakefront Trail & Wilson Ave",464
+"member","State St & Kinzie St",1568
+"member","Calumet Ave & 33rd St",1766
+"member","Streeter Dr & Grand Ave",2261
+"casual","Streeter Dr & Grand Ave",5605
+"member","Halsted St & Clybourn Ave",2759
+"casual","Homewood Ave & Monterey Ave",1
+"member","Valli Produce - Evanston Plaza",52
+"casual","Pulaski Rd & 51st St",76
+"casual","State St & 33rd St",155
+"casual","Warren Park West",55
+"casual","Halsted St & Maxwell St",575
+"member","Cherry Ave & Blackhawk St",205
+"member","Southport Ave & Irving Park Rd",806
+"member","Sheffield Ave & Webster Ave",1640
+"member","Franklin St & Lake St",766
+"member","Ritchie Ct & Banks St",951
+"casual","Sheffield Ave & Webster Ave",631
+"casual","Southport Ave & Irving Park Rd",342
+"member","Logan Blvd & Elston Ave",279
+"casual","Franklin St & Lake St",295
+"casual","Logan Blvd & Elston Ave",145
+"casual","Ritchie Ct & Banks St",442
+"casual","Halsted St & Polk St",690
+"casual","Paulina Ave & North Ave",563
+"casual","Rockwell St & Archer Ave",27
+"casual","Paulina St & Howard St",107
+"casual","Campbell Ave & North Ave",409
+"casual","Public Rack - Kimball Ave & Carmen Ave",5
+"member","Broadway & Sheridan Rd",1072
+"casual","Broadway & Sheridan Rd",389
+"casual","Lincoln Ave & Diversey Pkwy",594
+"member","LaSalle St & Adams St",447
+"member","Cottage Grove Ave & Oakwood Blvd",43
+"member","Western Ave & Division St",369
+"casual","Cottage Grove Ave & Oakwood Blvd",39
+"casual","Michigan Ave & Jackson Blvd",900
+"member","Stave St & Armitage Ave",359
+"casual","Ogden Ave & Chicago Ave",673
+"casual","Damen Ave & Leland Ave",359
+"casual","Paulina St & Flournoy St",206
+"casual","Smith Park",121
+"member","Halsted St & Willow St",278
+"member","Wood St & Hubbard St",134
+"member","Lincoln Park Conservatory",283
+"member","Damen Ave & Sunnyside Ave",151
+"member","State St & Chicago Ave",616
+"casual","Clark St & Montrose Ave",81
+"casual","Lincoln Park Conservatory",192
+"casual","Damen Ave & Sunnyside Ave",40
+"casual","Halsted St & Willow St",92
+"member","McClurg Ct & Erie St",1474
+"member","Franklin St & Illinois St",1387
+"member","Francisco Ave & Foster Ave",236
+"casual","Wells St & Concord Ln",2887
+"casual","McClurg Ct & Erie St",535
+"casual","Kedzie Ave & Harrison St",10
+"casual","Franklin St & Illinois St",644
+"casual","Rockwell & 111th St",1
+"member","Winchester (Ravenswood) Ave & Balmoral Ave",200
+"casual","Francisco Ave & Foster Ave",97
+"casual","Halsted & 63rd - Kennedy-King Vaccination Site",4
+"member","Damen Ave & Melrose Ave",246
+"member","W Armitage Ave & N Sheffield Ave",193
+"casual","Clark St & Newport St",988
+"casual","Sheridan Rd & Argyle St",287
+"casual","Francisco Ave & Bloomingdale Ave",33
+"casual","Damen Ave & Melrose Ave",116
+"casual","Dearborn St & Van Buren St",194
+"casual","W Armitage Ave & N Sheffield Ave",98
+"member","Dodge Ave & Mulford St",32
+"casual","Southport Ave & Belmont Ave",670
+"member","Western Ave & Granville Ave",164
+"member","Benson Ave & Church St",795
+"casual","Wolcott (Ravenswood) Ave & Montrose Ave",370
+"casual","Halsted St & 21st St",132
+"member","Halsted St & 21st St",269
+"member","Laflin St & Cullerton St",291
+"casual","Western Ave & Leland Ave",234
+"casual","Damen Ave & Cullerton St",124
+"casual","Damen Ave & Cortland St",765
+"casual","Sheridan Rd & Noyes St (NU)",624
+"casual","Clinton St & Roosevelt Rd",479
+"casual","Sheffield Ave & Wellington Ave",1020
+"casual","Laflin St & Cullerton St",189
+"member","Ogden Ave & Congress Pkwy",234
+"casual","Public Rack - Lawndale Ave & Diversey Ave",16
+"casual","Broadway & Berwyn Ave",245
+"casual","Michigan Ave & Lake St",861
+"casual","LaSalle Dr & Huron St",599
+"casual","Leavitt St & Lawrence Ave",130
+"member","Broadway & Cornelia Ave",1841
+"member","Wabash Ave & Wacker Pl",1011
+"casual","Central Park Ave & Elbridge Ave",176
+"casual","Kedzie Ave & 48th Pl",111
+"casual","Morgan St & Polk St",402
+"casual","Clark St & Touhy Ave",36
+"member","Morgan St & Polk St",2542
+"member","Central Park Ave & Elbridge Ave",284
+"member","Claremont Ave & Hirsch St",218
+"casual","Albany Ave & Montrose Ave",101
+"member","Damen Ave & Wellington Ave",429
+"member","Franklin St & Adams St (Temp)",1611
+"casual","Larrabee St & Division St",646
+"casual","Franklin St & Adams St (Temp)",518
+"member","Larrabee St & Division St",1646
+"casual","Sheridan Rd & Greenleaf Ave",112
+"casual","Halsted St & Clybourn Ave",1009
+"member","Sheridan Rd & Greenleaf Ave",224
+"casual","Damen Ave & Wellington Ave",299
+"member","Sheridan Rd & Columbia Ave",459
+"member","Ada St & Washington Blvd",979
+"casual","Sheridan Rd & Columbia Ave",209
+"casual","Elston Ave & Wabansia Ave",173
+"member","Public Rack - Sacramento Ave & Devon Ave",4
+"member","N Carpenter St & W Lake St",448
+"casual","Ada St & Washington Blvd",383
+"casual","Halsted St & 73rd St",7
+"member","Elston Ave & Wabansia Ave",311
+"casual","N Carpenter St & W Lake St",134
+"member","Public Rack - Western Ave & Devon Ave",28
+"casual","Calumet Ave & 33rd St",123
+"member","Racine Ave & Randolph St",853
+"member","Drake Ave & Montrose Ave",161
+"casual","Wells St & 19th St",173
+"member","Talman Ave & Addison St",478
+"member","Warren Park East",144
+"casual","N Paulina St & Lincoln Ave",112
+"casual","Talman Ave & Addison St",260
+"casual","Archer (Damen) Ave & 37th St",35
+"casual","Elmwood Ave & Austin St",42
+"member","Public Rack - Chase Ave & Touhy Ave - NW",1
+"casual","Western Ave & Division St",173
+"member","Clark St & Montrose Ave",168
+"casual","MLK Jr Dr & Pershing Rd",9
+"casual","Wood St & Hubbard St",56
+"member","Drake Ave & Addison St",102
+"casual","Woodlawn Ave & 55th St",216
+"casual","Rush St & Superior St",769
+"casual","Elston Ave & George St",116
+"casual","Canal St & Madison St",854
+"casual","Bissell St & Armitage Ave*",544
+"casual","Delano Ct & Roosevelt Rd",527
+"member","Ridge Blvd & Touhy Ave",99
+"member","State St & Harrison St",716
+"member","Ashland Ave & Lake St",460
+"member","Rhodes Ave & 32nd St",818
+"casual","Racine Ave & Washington Blvd",259
+"casual","Lakefront Trail & Wilson Ave",406
+"member","Oakley Ave & Irving Park Rd",255
+"casual","Ashland Ave & Lake St",311
+"casual","State St & Kinzie St",556
+"member","Southport Ave & Clybourn Ave",1402
+"casual","Clarendon Ave & Gordon Ter",648
+"casual","State St & Harrison St",393
+"member","Loomis St & Jackson Blvd",764
+"casual","Loomis St & Jackson Blvd",149
+"member","Public Rack - Western Ave & 96th St",3
+"casual","Rhodes Ave & 32nd St",80
+"casual","Southport Ave & Clybourn Ave",509
+"casual","Manor Ave & Leland Ave",90
+"casual","Walsh Park",292
+"member","Aberdeen St & Jackson Blvd",1141
+"member","California Ave & Francis Pl (Temp)",320
+"casual","Elizabeth (May) St & Fulton St",15
+"member","Racine Ave & 13th St",185
+"member","Western Ave & 24th St",78
+"member","Evanston Civic Center",140
+"casual","State St & Pearson St",196
+"casual","Cottage Grove Ave & 63rd St",61
+"member","Blackstone Ave & Hyde Park Blvd",449
+"casual","S Wentworth Ave & W 111th St",8
+"member","Woodlawn Ave & 55th St",592
+"casual","Evanston Civic Center",125
+"member","Woodlawn Ave & Lake Park Ave",165
+"member","Public Rack - Lockwood Ave & Diversey Ave",46
+"member","Cottage Grove Ave & 63rd St",194
+"casual","Washtenaw Ave & Peterson Ave",44
+"member","Western Ave & 21st St",125
+"casual","Wood St & Augusta Blvd",239
+"member","Public Rack - Hamlin Ave & Fullerton Ave",76
+"casual","Bosworth Ave & Howard St",50
+"casual","Damen Ave & 47th St",2
+"casual","Austin Blvd & Madison St",21
+"member","Avondale Ave & Irving Park Rd",194
+"casual","Kimbark Ave & 53rd St",154
+"casual","State St & Chicago Ave",197
+"member","Maplewood Ave & Peterson Ave",23
+"casual","Damen Ave & 51st St",6
+"member","Indiana Ave & Roosevelt Rd",2151
+"casual","Aberdeen St & Randolph St",419
+"member","Wood St & Webster Ave",238
+"member","Desplaines St & Jackson Blvd",1445
+"member","Franklin St & Jackson Blvd",1072
+"casual","N Sheffield Ave & W Wellington Ave",65
+"casual","Buckingham Fountain",841
+"member","California Ave & North Ave",275
+"member","Clark St & Jarvis Ave",79
+"member","Manor Ave & Leland Ave",193
+"casual","Avondale Ave & Irving Park Rd",126
+"member","State St & Van Buren St",979
+"casual","Indiana Ave & Roosevelt Rd",1537
+"casual","Greenview Ave & Fullerton Ave",723
+"casual","State St & Van Buren St",458
+"casual","Broadway & Waveland Ave",1037
+"casual","Canal St & Adams St",883
+"casual","Michigan Ave & 114th St",8
+"member","Michigan Ave & 114th St",2
+"member","Cottage Grove Ave & 47th St",181
+"member","MTV Hubbard St",190
+"member","Kedzie Ave & Milwaukee Ave",1581
+"member","Christiana Ave & Lawrence Ave",195
+"casual","Central St & Girard Ave",78
+"casual","California Ave & Montrose Ave",221
+"casual","Rockwell St & Cermak Rd",31
+"casual","Burnham Greenway & 112th St",26
+"casual","Paulina St & 18th St",214
+"member","Honore St & Division St",1362
+"member","Burnham Greenway & 112th St",23
+"casual","Emerald Ave & 28th St",78
+"casual","Halsted St & 56th St",13
+"member","Leavitt St & North Ave",738
+"casual","Doty Ave & 111th St",12
+"casual","Oakley Ave & Irving Park Rd",111
+"member","Wells St & 19th St",164
+"member","Central St & Girard Ave",138
+"casual","Museum of Science and Industry",428
+"member","Kildare Ave & Montrose Ave",105
+"member","Museum of Science and Industry",284
+"casual","Kildare Ave & Montrose Ave",63
+"casual","South Shore Dr & 67th St",59
+"casual","Western Ave & 21st St",107
+"casual","Lake Park Ave & 35th St",133
+"member","Ellis Ave & 58th St",1194
+"member","Canal St & Harrison St",258
+"member","Wabash Ave & Cermak Rd",184
+"casual","Central Park Ave & Bloomingdale Ave",148
+"member","Loomis St & 87th St",4
+"casual","California Ave & 21st St",42
+"casual","Public Rack - Eli Whitney Public School",9
+"casual","Racine Ave & 65th St",8
+"member","Lake Park Ave & 35th St",203
+"member","Sheridan Rd & Noyes St (NU)",898
+"member","Big Marsh Park",23
+"casual","Ashland Ave & 66th St",3
+"member","South Shore Dr & 67th St",67
+"member","Burnham Greenway & 105th St",19
+"member","Francisco Ave & Bloomingdale Ave",48
+"casual","Albany Ave & 26th St",9
+"member","Ashland Ave & 13th St",558
+"member","Kilbourn Ave & Irving Park Rd",69
+"member","Richmond St & Diversey Ave",244
+"casual","Sheridan Rd & Buena Ave",476
+"casual","Humboldt Blvd & Armitage Ave",332
+"member","63rd St Beach",23
+"casual","Cottage Grove Ave & 111th St",1
+"casual","Martin Luther King Dr & 111th St",18
+"casual","Public Rack - Pulaski Rd & Armitage Ave",21
+"member","Western Blvd & 48th Pl",23
+"casual","Western Blvd & 48th Pl",42
+"casual","Austin Blvd & Chicago Ave",19
+"casual","Public Rack - Milwaukee Ave & Addison St",6
+"member","Public Rack - Lorel Ave & Grand Ave",2
+"member","Cottage Grove Ave & 111th St",1
+"member","Cottage Grove Ave & 111th Pl",11
+"casual","Clark St & Ida B Wells Dr",341
+"casual","Orleans St & Merchandise Mart Plaza",899
+"member","Lincoln Ave & Waveland Ave",356
+"casual","Nordica & Medill",16
+"member","Western & 28th - Velasquez Institute Vaccination Site",1
+"casual","Avenue O & 118th St",6
+"member","Austin Blvd & Chicago Ave",12
+"member","Avenue O & 118th St",1
+"member","Pulaski Rd & Eddy St (Temp)",18
+"casual","Kostner Ave & Armitage Ave",10
+"member","Clarendon Ave & Junior Ter",819
+"casual","Sheffield Ave & Kingsbury St",446
+"member","Winchester Ave & Elston Ave",324
+"member","California & 16th St",17
+"casual","Western Blvd & 49th St",4
+"member","Stewart Ave & 63rd St",13
+"casual","Kedzie Ave & Bryn Mawr Ave",64
+"casual","Leavitt St & Chicago Ave",260
+"casual","W Washington Blvd & N Peoria St",27
+"member","Greenwood Ave & 47th St",396
+"casual","Chicago Ave & Washington St",126
+"casual","Clark St & Randolph St",458
+"casual","Lincolnwood Dr & Central St",13
+"casual","Wells St & Elm St",1453
+"casual","Clarendon Ave & Junior Ter",321
+"casual","Winchester Ave & Elston Ave",156
+"casual","Milwaukee Ave & Fullerton Ave",192
+"casual","Lincoln Ave & Waveland Ave",157
+"casual","Cottage Grove Ave & 67th St",36
+"member","Doty Ave & 111th St",3
+"member","Ridge Blvd & Howard St",55
+"casual","N Damen Ave & W Chicago Ave",18
+"member","Dauphin Ave & 103rd St",4
+"member","N Sheffield Ave & W Wellington Ave",171
+"casual","University Ave & 57th St",1074
+"casual","Larrabee St & Webster Ave",817
+"casual","Wood St & Webster Ave",137
+"casual","Wilton Ave & Belmont Ave",962
+"casual","Western Ave & Berteau Ave",75
+"casual","Western Ave & 24th St",47
+"casual","Racine Ave & 76th",2
+"member","Public Rack - Jensen Park",27
+"casual","Eastlake Ter & Rogers Ave",8
+"casual","Kingsbury St & Kinzie St",735
+"member","Clark St & Touhy Ave",84
+"casual","N Southport Ave & W Newport Ave",69
+"casual","Greenwood Ave & 47th St",117
+"member","Ellis Ave & 55th St",1334
+"member","Kilbourn Ave & Milwaukee Ave",59
+"member","Albany Ave & Montrose Ave",288
+"casual","Public Rack - Sacramento Ave & Devon Ave",9
+"member","Western Ave & Grace St",188
+"casual","Clark St & Jarvis Ave",30
+"casual","Monticello Ave & Irving Park Rd",80
+"casual","Western Ave & Grace St",70
+"member","Central Park Ave & Bloomingdale Ave",181
+"casual","DuSable Lake Shore Dr & North Blvd",1094
+"member","DuSable Lake Shore Dr & North Blvd",1060
+"casual","Artesian Ave & 55th St",27
+"member","Racine Ave & Wrightwood Ave",391
+"casual","Damen Ave & Grand Ave",148
+"member","Central Park Ave & Douglas Blvd",3
+"member","Phillips Ave & 79th St",17
+"member","Milwaukee Ave & Fullerton Ave",247
+"casual","Kosciuszko Park",136
+"casual","Wood St & Taylor St (Temp)",140
+"casual","Public Rack - Kedzie Ave & Argyle St",7
+"member","Stony Island Ave & 64th St",20
+"casual","Winchester (Ravenswood) Ave & Balmoral Ave",101
+"casual","Racine Ave & 13th St",71
+"member","Public Rack - Washtenaw Ave & Devon Ave",35
+"member","Prairie Ave & Garfield Blvd",86
+"member","Dodge Ave & Main St",68
+"member","Kedzie Ave & Harrison St",20
+"member","Lincolnwood Dr & Central St",22
+"casual","Central Park Ave & North Ave",82
+"member","Lincoln Ave & Addison St",190
+"casual","Emerald Ave & 31st St",66
+"member","Clinton St & 18th St",222
+"member","Central St Metra",50
+"member","Wells St & Polk St",590
+"casual","Racine Ave & Wrightwood Ave",172
+"member","Emerald Ave & 31st St",421
+"member","Wabash Ave & Grand Ave",1713
+"member","Clark St & Schreiber Ave",212
+"member","Lake Park Ave & 47th St",148
+"member","Hoyne Ave & 34th St",8
+"member","Damen Ave & Grand Ave",435
+"casual","Keystone Ave & Montrose Ave",30
+"casual","Wells St & Polk St",237
+"member","Wabash Ave & Roosevelt Rd",1844
+"casual","Wabash Ave & Roosevelt Rd",846
+"casual","Morgan St & 31st St",174
+"casual","DuSable Lake Shore Dr & Belmont Ave",688
+"casual","Green St & Washington Blvd",388
+"casual","Kedzie Ave & Palmer Ct",261
+"casual","Clark St & Berwyn Ave",595
+"casual","Wilton Ave & Diversey Pkwy",486
+"casual","Cannon Dr & Fullerton Ave",278
+"member","DuSable Lake Shore Dr & Belmont Ave",1165
+"casual","Cottage Grove Ave & 47th St",59
+"member","Public Rack - Spaulding Ave & North Ave",19
+"member","Wells St & Hubbard St",3157
+"member","Jefferson St & Monroe St",1114
+"member","Lincoln Ave & Winona St",243
+"casual","Hoyne Ave & 34th St",12
+"casual","Clinton St & 18th St",96
+"member","Lincoln Ave & Fullerton Ave",2034
+"member","Halsted St & Dickens Ave",1058
+"member","Damen Ave & Wabansia Ave",218
+"member","Washtenaw Ave & Lawrence Ave",225
+"member","Dearborn St & Adams St",669
+"casual","Wentworth Ave & 24th St (Temp)",70
+"casual","Damen Ave & Wabansia Ave",125
+"member","Green St & Washington Blvd",863
+"member","Clark St & Berwyn Ave",1299
+"member","Ashland Ave & Grand Ave",522
+"member","Wilton Ave & Diversey Pkwy",1346
+"member","Lincoln Ave & Balmoral Ave",51
+"member","Morgan St & 31st St",495
+"member","LaSalle St & Jackson Blvd",2347
+"member","Homan Ave & Fillmore St",10
+"member","Central Park Ave & North Ave",69
+"casual","N Shore Channel Trail & Argyle St",41
+"casual","Sayre & Diversey",72
+"casual","Public Rack - Milwaukee Ave & School St",16
+"member","Halsted St & Wrightwood Ave",2860
+"member","Clark St & Drummond Pl",3232
+"member","Ashland Ave & Augusta Blvd",1307
+"member","Financial Pl & Ida B Wells Dr",1631
+"casual","Loomis St & Lexington St",662
+"casual","Desplaines St & Jackson Blvd",415
+"casual","California Ave & 36th St",8
+"casual","Indiana Ave & 26th St",91
+"member","Public Rack - Kedzie Ave & Argyle St",25
+"casual","Lake Park Ave & 56th St",565
+"member","Lincoln Ave & Roscoe St*",267
+"member","Desplaines St & Randolph St",785
+"casual","Dearborn St & Adams St",250
+"casual","Halsted St & Dickens Ave",338
+"casual","Lincoln Ave & Fullerton Ave",719
+"casual","South Shore Dr & 71st St",29
+"casual","Washtenaw Ave & Lawrence Ave",67
+"member","Western Ave & Congress Pkwy",457
+"member","Kingsbury St & Erie St",2455
+"member","Broadway & Ridge Ave",877
+"member","Public Rack - Central Park Ave & Fillmore St",2
+"member","Elston Ave & George St",160
+"casual","Kedzie Ave & 64th St - SW",1
+"member","Harriet E Sayre Public School",1
+"casual","Ashland Ave & 63rd St",20
+"member","N Damen Ave & W Chicago Ave",95
+"member","Mulligan Ave & Wellington Ave",29
+"casual","Shields Ave & 28th Pl",21
+"member","State St & 79th St",44
+"member","Christiana Ave & Archer Ave",2
+"casual","Wabash Ave & 87th St",27
+"casual","Public Rack - Mozart Elementary School",3
+"member","Rockwell St & Archer Ave",10
+"member","Wood St & 35th St",94
+"casual","Cherry Ave & Blackhawk St",159
+"member","Shields Ave & 43rd St",23
+"casual","Wabash Ave & Cermak Rd",74
+"casual","State St & 79th St",48
+"casual","Milwaukee Ave & Cuyler Ave",39
+"member","Public Rack - Chopin Park",1
+"member","Public Rack - Lawndale Ave & Diversey Ave",38
+"casual","Yates Blvd & 75th St",26
+"casual","Jeffery Blvd & 71st St",36
+"member","Dorchester Ave & 49th St",128
+"member","Bradley Park",2
+"member","Public Rack - Pulaski Rd & Armitage Ave",8
+"member","N Shore Channel Trail & Argyle St",61
+"member","Nagle Ave & Belmont Ave",1
+"casual","St Louis Ave & 59th St",34
+"casual","Kilbourn Ave & Milwaukee Ave",50
+"member","N Paulina St & Lincoln Ave",232
+"member","Campbell Ave & Irving Park Rd",55
+"member","Pulaski Rd & 51st St",89
+"member","Yates Blvd & 93rd St",6
+"member","Public Rack - Milwaukee Ave & Diversey Ave",17
+"member","N Southport Ave & W Newport Ave",88
+"casual","Stony Island Ave & 82nd St",6
+"member","Stony Island Ave & 82nd St",36
+"casual","Public Rack - Milwaukee Ave & Haussen Ct",16
+"member","Kedzie Ave & 48th Pl",72
+"casual","N Narragansett Ave & Grand Ave",1
+"casual","California Ave & Lake St",67
+"member","Greenwood Ave & 91st St",15
+"member","California Ave & Lake St",68
+"casual","Leavitt St & Addison St",120
+"member","Kilbourn & Roscoe",11
+"casual","Kedzie Ave & 52nd St",23
+"member","Sacramento Blvd & Franklin Blvd",52
+"casual","Clyde Ave & 87th St",10
+"member","Laramie Ave & Madison St",26
+"member","Bloomingdale Ave & Harlem Ave",5
+"casual","Kostner Ave & Wrightwood Ave",25
+"member","Elmwood Ave & Austin St",104
+"member","Damen Ave & 74th St",4
+"casual","Albany Ave & 63rd St",1
+"member","Public Rack - Milwaukee Ave & School St",30
+"member","Washtenaw Ave & Polk St",35
+"casual","Rockwell St & 63rd St",2
+"casual","Damen Ave & Walnut (Lake) St",61
+"casual","Stony Island Ave & 71st St",15
+"casual","Stony Island Ave & South Chicago Ave",6
+"member","Western Ave & Monroe St",359
+"casual","Dauphin Ave & 87th St",14
+"member","Kedzie Ave & George St",70
+"member","Leavitt St & Division St",608
+"member","Halsted St & Archer Ave",340
+"casual","Desplaines St & Randolph St",233
+"member","Damen Ave & Clybourn Ave",282
+"casual","Lincoln Ave & Roscoe St*",77
+"member","Cannon Dr & Fullerton Ave",240
+"casual","South Chicago Ave & Elliot Ave",1
+"member","Loomis St & Lexington St",5328
+"casual","Clark St & Drummond Pl",1290
+"casual","Ashland Ave & Augusta Blvd",352
+"member","Spaulding Ave & Division St",274
+"casual","Halsted St & Wrightwood Ave",1245
+"casual","Financial Pl & Ida B Wells Dr",458
+"member","Central Ave & Parker Ave",14
+"casual","Torrence Ave & 126th Pl",11
+"casual","Woodlawn Ave & 75th St",10
+"member","Halsted St & 18th St",298
+"casual","Ellis Ave & 55th St",428
+"member","Kimbark Ave & 53rd St",672
+"member","Kedzie Ave & Bryn Mawr Ave",111
+"casual","Prairie Ave & Garfield Blvd",57
+"casual","Public Rack - Woodlawn Ave & 63rd St - SE",1
+"member","Hyde Park Blvd & 53rd St",4
+"member","Kedzie Ave & Roosevelt Rd",25
+"member","State St & 54th St",8
+"casual","Baltimore Ave & 87th St",17
+"member","Greenwood Ave & 97th St",31
+"casual","Ada St & 113th St",4
+"casual","Dauphin Ave & 103rd St",7
+"member","Neva Ave & Grand Ave",1
+"casual","Blackstone Ave & Hyde Park Blvd",103
+"member","Western Ave & 111th St",21
+"member","Oglesby Ave & 95th St",1
+"casual","Fairfield Ave & 44th St",29
+"casual","Woodlawn Ave & Lake Park Ave",81
+"member","Bennett Ave & 96th St",1
+"member","Vernon Ave & 75th St",31
+"casual","Public Rack - Jonathan Y Scammon Public School",4
+"casual","Lincoln Ave & Sunnyside Ave",144
+"member","Ashland Ave & Grace St",822
+"casual","Kilpatrick Ave & Parker Ave",39
+"casual","Lamon Ave & Belmont Ave",35
+"member","Lockwood Ave & Wrightwood Ave",38
+"member","California Ave & 23rd Pl",45
+"member","Damen Ave & Thomas St (Augusta Blvd)",985
+"casual","California Ave & 23rd Pl",21
+"member","Kedzie Ave & 21st St",28
+"casual","Public Rack - Menard Ave & Dakin St - midblock",9
+"casual","Canal St & Harrison St",78
+"member","Public Rack - Keystone Ave & North Ave",10
+"member","California Ave & 26th St",43
+"casual","California Ave & 26th St",11
+"member","Francisco Ave & Montrose Ave",172
+"casual","Plainfield & Irving Park",13
+"casual","Public Rack - Hamlin Ave & Fullerton Ave",30
+"casual","Public Rack - Keystone Ave & Irving Park Rd",7
+"casual","Public Rack - Christiana Ave & Belmont Ave",13
+"member","MLK Jr Dr & Pershing Rd",57
+"casual","MLK Jr Dr & 56th St",12
+"member","Public Rack - California Ave & Cortez St",6
+"member","Washtenaw Ave & Ogden Ave",22
+"member","Damen Ave & Walnut (Lake) St",165
+"casual","Kedzie Ave & Chicago Ave",40
+"member","Public Rack - 10557 S Western Ave",2
+"casual","Kilbourn & Roscoe",47
+"member","Keystone Ave & Montrose Ave",74
+"casual","Long & Irving Park",101
+"member","Wabash Ave & 87th St",37
+"member","St Louis Ave & 59th St",31
+"member","N Clark St & W Elm St",28
+"casual","Pulaski Rd & Eddy St (Temp)",14
+"casual","Central Park Ave & 24th St",51
+"casual","Meade Ave & Addison St",13
+"member","Lincoln Ave & Sunnyside Ave",348
+"casual","LaSalle St & Jackson Blvd",646
+"casual","Ashland Ave & Grand Ave",226
+"member","Public Rack - Central Park Ave & Ogden Ave",1
+"member","W Washington Blvd & N Peoria St",89
+"member","Public Rack - Drake Ave & Leland Ave",2
+"member","Spaulding Ave & 63rd St",24
+"member","Kimball Ave & Belmont Ave",222
+"member","Kedzie Ave & 52nd St",8
+"casual","Oketo Ave & Addison St",17
+"casual","Christiana Ave & Archer Ave",1
+"casual","Bernard St & Elston Ave",29
+"casual","Mulligan Ave & Wellington Ave",19
+"member","Public Rack - Christiana Ave & Belmont Ave",10
+"member","Kedzie Ave & 64th St - SW",2
+"casual","Francisco Ave & 47th St",21
+"casual","Public Rack - Kostner Ave & Diversey Ave",9
+"member","Public Rack - Milwaukee Ave & Haussen Ct",12
+"member","Public Rack - Keystone Ave & Irving Park Rd",9
+"member","Fullerton & Monitor",12
+"casual","Public Rack - Lockwood Ave & Diversey Ave",15
+"casual","Public Rack - Hamlin Ave & Montrose Ave",12
+"member","Kostner Ave & Armitage Ave",7
+"casual","Public Rack - Spaulding Ave & Evergreen Ave",4
+"casual","Laramie Ave & Kinzie St",25
+"casual","South Chicago Ave & 83rd St",3
+"member","Public Rack - Spaulding Ave & Evergreen Ave",8
+"casual","Phillips Ave & 83rd St",5
+"casual","Public Rack - Fullerton Ave & Narragansett Ave",9
+"casual","Public Rack - Christiana Ave & Lawrence Ave",1
+"casual","Spaulding Ave & 63rd St",10
+"casual","Lamon Ave & Armitage Ave",19
+"casual","Western & 28th - Velasquez Institute Vaccination Site",3
+"casual","Kedzie Ave & 54th St - SE",1
+"casual","St Louis Ave & Norman Bobbins Ave",14
+"casual","Homan Ave & 65th St",13
+"member","Kedzie Ave & 63rd St",1
+"casual","Drake Ave & Addison St",39
+"casual","Kedzie Ave & 58th St",3
+"casual","Pulaski Rd & 44th St",1
+"member","Pulaski Rd & 44th St",1
+"member","Western Ave & Berteau Ave",75
+"member","Milwaukee Ave & Cuyler Ave",68
+"member","Long & Irving Park",75
+"member","Public Rack - Lowell Ave & Elston Ave",24
+"casual","Laramie Ave & Madison St",19
+"member","Kilpatrick Ave & Parker Ave",35
+"casual","Public Rack - California Ave & Devon Ave - NW",2
+"casual","Oak Park & Wellington",30
+"member","Kedzie Ave & 57th St",40
+"casual","Central St Metra",51
+"member","Washtenaw Ave & Madison St",7
+"member","Kosciuszko Park",251
+"casual","Commercial Ave & 83rd St",11
+"casual","Public Rack - Cicero Ave & Altgeld St",3
+"casual","Kedzie Ave & 57th St",36
+"casual","Ashland Ave & Belle Plaine Ave",137
+"member","Kedzie Ave & Palmer Ct",336
+"casual","Kingsbury St & Erie St",727
+"casual","Public Rack - Milwaukee Ave & Diversey Ave",2
+"member","Sayre & Diversey",28
+"casual","Kedzie Ave & 61st Pl",3
+"member","Public Rack - Karlov Ave & Kamerling Ave",7
+"casual","Stony Island Ave & 67th St",26
+"member","Midway Orange Line",1
+"casual","Public Rack - Lowell Ave & Elston Ave",35
+"casual","Austin Blvd & Lake St",66
+"member","Jeffery Blvd & 71st St",66
+"member","Public Rack - California Ave & Touhy Ave - SW",1
+"casual","Whipple/Irving Park",29
+"casual","California Ave & Winona St",31
+"member","Hale Ave & 107th St",9
+"member","Lawndale Ave & 30th St",7
+"casual","Damen Ave & 59th St",43
+"member","Public Rack - Woodlawn Ave & 63rd St - SE",1
+"member","Panama Ave & Grace St",1
+"member","Baltimore Ave & 87th St",14
+"casual","Washtenaw Ave & 63rd St",1
+"casual","Ellis Ave & 58th St",165
+"casual","Public Rack - Keystone Ave & North Ave",2
+"member","California Ave & 21st St",105
+"casual","Leamington Ave & Hirsch St",16
+"member","Western Ave & 104th St",3
+"casual","Kedzie Ave & 104th St",14
+"casual","Hiawatha Park",2
+"casual","Exchange Ave & 79th St",20
+"casual","Public Rack - Kimbark Ave & 67th St",3
+"casual","Public Rack - Robert Fulton Elementary School",2
+"member","Orange & Addison",2
+"member","Public Rack - Kimbark Ave & 67th St",8
+"member","Avenue O & 134th St",7
+"member","Kimbark Ave & 67th St",1
+"casual","Troy St & North Ave",231
+"member","Racine Ave & Fullerton Ave (Temp)",105
+"member","Kostner Ave & Adams St",50
+"casual","Public Rack - California Ave & Cortez St",3
+"casual","Narragansett & Irving Park",28
+"casual","Wentworth Ave & 35th St",225
+"member","Troy St & North Ave",288
+"casual","Kostner Ave & Adams St",7
+"member","California Ave & Montrose Ave",356
+"member","Indiana Ave & 31st St",1222
+"casual","Menard Ave & Division St",10
+"member","Ashland Ave & Archer Ave",133
+"casual","Wells St & Hubbard St",1606
+"casual","Kedzie Ave & George St",69
+"casual","Jefferson St & Monroe St",365
+"casual","Western Ave & Congress Pkwy",172
+"member","Wells St & Huron St",2134
+"member","New St & Illinois St",2127
+"member","Lincoln Ave & Belmont Ave (Temp)",767
+"casual","Wells St & Huron St",875
+"casual","New St & Illinois St",1345
+"casual","Wells St & Evergreen Ave",752
+"casual","Damen Ave & Chicago Ave",435
+"casual","Lincoln Ave & Belmont Ave (Temp)",294
+"casual","Franklin St & Jackson Blvd",442
+"casual","Michigan Ave & Ida B Wells Dr",316
+"casual","Public Rack - Karlov Ave & Kamerling Ave",4
+"member","Stockton Dr & Wrightwood Ave",2409
+"casual","Stockton Dr & Wrightwood Ave",1220
+"member","Wentworth Ave & 24th St (Temp)",206
+"casual","Halsted St & Archer Ave",225
+"casual","Lincoln Ave & Winona St",88
+"casual","Halsted St & 18th St",126
+"member","Avers Ave & Belmont Ave",138
+"member","Indiana Ave & 40th St",23
+"member","Wolcott Ave & Polk St",2476
+"casual","Wolcott Ave & Polk St",294
+"casual","Chicago Ave & Sheridan Rd",335
+"casual","Avers Ave & Belmont Ave",70
+"member","Calumet Ave & 35th St",362
+"casual","Indiana Ave & 31st St",135
+"member","Public Rack - Avers Ave & Irving Park Rd",13
+"member","Milwaukee Ave & Wabansia Ave",1089
+"casual","Calumet Ave & 35th St",68
+"member","Dearborn St & Erie St",1953
+"casual","Dearborn St & Erie St",718
+"member","Fairbanks St & Superior St",800
+"casual","Wallace St & 35th St",78
+"casual","Racine Ave & 35th St",40
+"casual","Fairbanks St & Superior St",252
+"member","Michigan Ave & Ida B Wells Dr",296
+"member","Damen Ave & Chicago Ave",1033
+"member","Wells St & Evergreen Ave",1219
+"member","Halsted St & Roosevelt Rd",1525
+"member","Field Blvd & South Water St",1006
+"member","LaSalle St & Illinois St",2684
+"casual","Field Blvd & South Water St",650
+"casual","Halsted St & Roosevelt Rd",359
+"casual","Albany Ave & Belmont Ave",34
+"casual","LaSalle St & Illinois St",1573
+"casual","Public Rack - Hyde Park Blvd & 53rd St",4
+"member","Wabash Ave & 16th St",1740
+"member","Public Rack - Kedzie Ave & 61st Pl W",2
+"casual","Lamon Ave & Chicago Ave",15
+"casual","Phillips Ave & 79th St",20
+"member","Milwaukee Ave & Rockwell St",402
+"member","Albany Ave & Belmont Ave",44
+"casual","Troy St & Grace St",58
+"member","Homewood Ave & Monterey Ave",1
+"casual","Public Rack - Monticello Ave & Belmont Ave",16
+"member","Peoria St & Jackson Blvd",1544
+"member","Seeley Ave & Roscoe St",360
+"member","Public Rack - Karlov Ave & Milwaukee Ave",5
+"member","Ellis Ave & 60th St",2656
+"member","900 W Harrison St",2249
+"member","Rush St & Cedar St",2820
+"casual","Damen Ave & Charleston St",556
+"casual","900 W Harrison St",630
+"casual","Rush St & Cedar St",1262
+"casual","Damen Ave & Madison St",202
+"member","Harper Ave & 59th St",837
+"member","Lamon Ave & Chicago Ave",4
+"member","Sacramento Blvd & Polk St",10
+"casual","Seeley Ave & Roscoe St",179
+"casual","Broadway & Thorndale Ave",210
+"casual","Peoria St & Jackson Blvd",345
+"member","Broadway & Thorndale Ave",660
+"member","Larrabee St & Menomonee St",478
+"casual","Southport Ave & Wellington Ave",399
+"member","Wentworth Ave & 35th St",371
+"member","Public Rack - Kedzie Ave & 62nd Pl",15
+"member","Rockwell St & Eastwood Ave",717
+"member","May St & Taylor St",684
+"casual","Blue Island Ave & 18th St",83
+"casual","May St & Taylor St",182
+"casual","Jeffery Blvd & 67th St",7
+"casual","Wabash Ave & 16th St",707
+"member","Damen Ave & 51st St",2
+"casual","Constance Ave & 95th St",13
+"member","Whipple/Irving Park",30
+"member","Calumet Ave & 51st St",139
+"member","Southport Ave & Wellington Ave",999
+"member","Blue Island Ave & 18th St",168
+"member","Jeffery Blvd & 67th St",8
+"casual","Stony Island Ave & 64th St",37
+"casual","Stony Island Ave & 90th St",5
+"member","Wells St & Walton St",1964
+"casual","Wells St & Walton St",834
+"member","Clark St & Lake St",1376
+"member","Montrose Harbor",801
+"member","Michigan Ave & 18th St",806
+"casual","Lake Park Ave & 47th St",74
+"casual","Wabash Ave & Grand Ave",720
+"casual","Washtenaw Ave & Polk St",24
+"casual","Damen Ave & Clybourn Ave",120
+"member","DuSable Lake Shore Dr & Diversey Pkwy",1130
+"casual","State St & 35th St",89
+"member","State St & 35th St",645
+"casual","Federal St & Polk St",602
+"casual","Marine Dr & Ainslie St",213
+"casual","DuSable Lake Shore Dr & Diversey Pkwy",609
+"casual","Michigan Ave & 18th St",306
+"member","Federal St & Polk St",1563
+"member","W Oakdale Ave & N Broadway",187
+"casual","Montrose Harbor",1095
+"casual","Clark St & Lake St",496
+"casual","Dorchester Ave & 63rd St",35
+"member","Green St & Madison St",1497
+"casual","Dusable Harbor",817
+"casual","Green St & Madison St",516
+"member","Dusable Harbor",369
+"member","Larrabee St & Oak St",767
+"member","Cityfront Plaza Dr & Pioneer Ct",706
+"member","McCormick Place",173
+"member","Elston Ave & Cortland St",724
+"casual","Clinton St & Jackson Blvd",530
+"casual","Rockwell St & 57th St",12
+"casual","McCormick Place",325
+"casual","Cityfront Plaza Dr & Pioneer Ct",417
+"member","Damen Ave & Charleston St",896
+"member","Long Ave & Belmont Ave",14
+"member","Eberhart Ave & 61st St",27
+"member","May St & Cullerton St",268
+"member","State St & 19th St",249
+"casual","DuSable Lake Shore Dr & Wellington Ave",989
+"casual","Keystone Ave & Fullerton Ave",60
+"member","Marine Dr & Ainslie St",474
+"casual","Lincoln Ave & Belle Plaine Ave",169
+"casual","Campbell Ave & Fullerton Ave",150
+"casual","Cottage Grove Ave & 71st St",7
+"casual","Spaulding Ave & Armitage Ave",321
+"casual","California Ave & Marquette Rd",19
+"casual","Eberhart Ave & 61st St",17
+"member","Clinton St & Jackson Blvd",2287
+"casual","Larrabee St & Oak St",154
+"casual","Major Ave & Bloomingdale Ave",7
+"casual","Clinton St & Tilden St",149
+"member","DuSable Lake Shore Dr & Wellington Ave",1726
+"casual","State St & 19th St",146
+"casual","Kimball Ave & Belmont Ave",139
+"casual","Spaulding Ave & Division St",194
+"casual","Rockwell St & Eastwood Ave",259
+"casual","Elston Ave & Henderson St",64
+"casual","63rd St Beach",25
+"member","Calumet Ave & 18th St",572
+"member","Fort Dearborn Dr & 31st St",361
+"member","Western Ave & Winnebago Ave",987
+"member","Lincoln Ave & Belle Plaine Ave",516
+"casual","Fort Dearborn Dr & 31st St",181
+"member","Public Rack - McCormick Blvd & Devon Ave",6
+"member","Racine Ave & Congress Pkwy",1358
+"casual","LaSalle St & Washington St",306
+"casual","Morgan St & Lake St*",299
+"casual","Calumet Ave & 18th St",282
+"member","Rockwell St & Cermak Rd",82
+"member","Ogden Ave & Roosevelt Rd",121
+"member","LaSalle St & Washington St",899
+"casual","South Shore Dr & 74th St",25
+"member","Clark St & Wrightwood Ave",1023
+"member","Clark St & Winnemac Ave",527
+"casual","Calumet Ave & 21st St",113
+"member","Hermitage Ave & Polk St",574
+"member","Clinton St & Lake St",923
+"member","Ashland Ave & Division St",957
+"casual","Clark St & Winnemac Ave",235
+"casual","Ashland Ave & Division St",417
+"casual","Clark St & Wrightwood Ave",369
+"casual","Clinton St & Lake St",293
+"member","Racine Ave & 18th St",476
+"member","Mies van der Rohe Way & Chicago Ave",1180
+"member","Morgan St & Lake St*",845
+"member","Emerald Ave & 28th St",398
+"member","Calumet Ave & 21st St",107
+"casual","Ogden Ave & Roosevelt Rd",24
+"casual","Richmond St & Diversey Ave",118
+"member","Ogden Ave & Race Ave",857
+"casual","Ogden Ave & Race Ave",282
+"casual","Mies van der Rohe Way & Chicago Ave",360
+"casual","Racine Ave & 18th St",217
+"member","Phillips Ave & 83rd St",3
+"member","Ravenswood Ave & Berteau Ave",605
+"casual","Ravenswood Ave & Berteau Ave",132
+"member","Aberdeen St & Monroe St",1456
+"casual","Aberdeen St & Monroe St",430
+"member","MLK Jr Dr & 47th St",31
+"member","Princeton Ave & 47th St",152
+"casual","Knox Ave & Montrose Ave",174
+"member","Damen Ave & 59th St",9
+"casual","Ellis Ave & 53rd St",259
+"member","Ellis Ave & 53rd St",566
+"member","Stony Island Ave & 71st St",12
+"casual","MLK Jr Dr & 83rd St",18
+"casual","Milwaukee Ave & Wabansia Ave",490
+"member","Public Rack - Hyde Park Blvd & 55th St",7
+"member","Racine Ave & 61st St",7
+"casual","Indiana Ave & 40th St",23
+"member","Ashland Ave & Pershing Rd",22
+"casual","Wentworth Ave & 63rd St",31
+"casual","Summit Ave & 86th St",2
+"member","Troy St & Grace St",127
+"member","Halsted St & 56th St",4
+"casual","California & 16th St",13
+"casual","Budlong Woods Library",86
+"member","Halsted St & 51st St",43
+"casual","Halsted St & 51st St",14
+"casual","63rd & Western Ave - north corner",1
+"casual","Halsted St & 78th St",22
+"member","Halsted St & 78th St",12
+"casual","Vernon Ave & 75th St",8
+"casual","Harper Ave & 59th St",100
+"casual","Conservatory Dr & Lake St",37
+"member","Halsted & 63rd - Kennedy-King Vaccination Site",7
+"casual","Rainbow Beach",12
+"member","Seeley Ave & Garfield Blvd",3
+"casual","Public Rack - N Narragansett Ave & Grand Ave",1
+"member","Damen Ave & Madison St",324
+"casual","Ellis Ave & 60th St",618
+"casual","Marshfield Ave & 44th St",11
+"casual","Vincennes Ave & 75th St",10
+"member","Narragansett & Irving Park",51
+"member","Cottage Grove Ave & 67th St",25
+"member","Knox Ave & Montrose Ave",282
+"casual","Princeton Ave & 47th St",92
+"casual","Larrabee St & Menomonee St",122
+"casual","Racine Ave & Fullerton Ave (Temp)",66
+"casual","Wabash Ave & 83rd St",23
+"member","Narragansett Ave & School St",26
+"member","Public Rack - Hamlin Ave & Montrose Ave",9
+"member","Carpenter St & 63rd St",2
+"member","Public Rack - Avondale Ave & Addison St",2
+"casual","California Ave & Altgeld St",119
+"member","Summit Ave & 86th St",7
+"casual","Latrobe Ave & Chicago Ave",28
+"casual","Elston Ave & Cortland St",310
+"member","Dorchester Ave & 63rd St",94
+"casual","Stewart Ave & 83rd St",13
+"casual","Kedzie Ave & Leland Ave",90
+"casual","Princeton Ave & Garfield Blvd",13
+"casual","Milwaukee Ave & Rockwell St",325
+"casual","Central Ave & Chicago Ave",24
+"member","Ashland Ave & McDowell Ave",72
+"casual","Ashland Ave & McDowell Ave",18
+"member","California Ave & Byron St",178
+"member","Clinton St & Tilden St",347
+"member","Public Rack - Cicero Ave & Roscoe St",2
+"member","Halsted St & 59th St",3
+"casual","Cicero Ave & Grace St",14
+"casual","Prairie Ave & 43rd St",76
+"casual","Narragansett & Wrightwood",59
+"casual","May St & Cullerton St",181
+"member","Kedzie Ave & Foster Ave",195
+"member","Larrabee St & North Ave",580
+"casual","Racine Ave & Congress Pkwy",210
+"casual","W Oakdale Ave & N Broadway",100
+"casual","Vernon Ave & 79th St",6
+"casual","Calumet Ave & 51st St",45
+"member","May St & 69th St",65
+"casual","Public Rack - Evans Ave & 63rd St",1
+"casual","Halsted St & 69th St",13
+"casual","Harlem & Irving Park",49
+"member","Fairfield Ave & Roosevelt Rd",31
+"casual","Public Rack - California Ave & Ogden Ave",2
+"casual","Western Ave & Winnebago Ave",505
+"casual","Larrabee St & North Ave",347
+"casual","Fairfield Ave & Roosevelt Rd",24
+"member","Halsted St & 73rd St",15
+"member","Kildare & Cermak",2
+"casual","Halsted St & 96th St",8
+"casual","MLK Jr Dr & 47th St",21
+"casual","Clarendon Ave & Leland Ave",206
+"casual","Lincoln Ave & Peterson Ave",56
+"casual",NewHastings,3
+"casual","Broadway & Ridge Ave",430
+"member","Normal Ave & Archer Ave",86
+"member","Clarendon Ave & Leland Ave",601
+"casual","Lincoln Ave & Balmoral Ave",32
+"casual","Public Rack - Lafayette Ave & 95th St",2
+"casual","Union Ave & Root St",17
+"member","Union Ave & Root St",19
+"member","Western Ave & Howard St",173
+"member","Chicago Ave & Sheridan Rd",503
+"member","Cicero Ave & Flournoy St",11
+"casual","Central Ave & Lake St",9
+"casual","Damen Ave & Foster Ave",92
+"casual","Ashland Ave & Garfield Blvd",18
+"casual","Leavitt St & Division St",321
+"casual","Western Ave & Monroe St",75
+"member","Vincennes Ave & 104th St",27
+"member","Public Rack - Laramie Ave & Fullerton Ave",1
+"member","California Ave & Altgeld St",248
+"member","University Library (NU)",163
+"casual","Public Rack - Kostner Ave & Armitage Ave",17
+"member","Narragansett & Wrightwood",36
+"casual","Maplewood Ave & Peterson Ave",9
+"member","Public Rack - Kostner Ave & Armitage Ave",39
+"member","Glenwood Ave & Morse Ave",384
+"casual","Public Rack - Rockwell Ave & Touhy Ave ",4
+"member","Damen Ave & Foster Ave",229
+"member","Public Rack - N Narragansett Ave & Grand Ave",2
+"casual","Clark St & Schreiber Ave",82
+"casual","Glenwood Ave & Morse Ave",143
+"member","Spaulding Ave & Armitage Ave",653
+"member","Martin Luther King Dr & 111th St",16
+"casual","Meade Ave & Diversey Ave",26
+"casual","Perry Ave & 69th St",41
+"member","Elizabeth St & 92nd St",48
+"casual","Mozart St & Jackson Blvd",8
+"member","Mason Ave & Belmont Ave",13
+"member","Public Rack - California Ave & Ogden Ave",1
+"casual","Fullerton & Monitor",49
+"casual","Central Ave & Harrison St",11
+"casual","Public Rack - Narragansett Ave & Fullerton Ave",1
+"member","Leamington Ave & Hirsch St",2
+"member","S Wentworth Ave & W 111th St",7
+"casual","Central Ave & Madison St",16
+"casual","Western Ave & Lunt Ave",36
+"member","Public Rack - Kostner Ave & Diversey Ave",22
+"member","Dauphin Ave & 87th St",14
+"casual","State St & 123rd St",3
+"member","Western Ave & Lunt Ave",159
+"member","State St & 29th St",157
+"member","Western Ave & Ardmore Ave",20
+"member","Keystone Ave & Fullerton Ave",96
+"casual","Ping Tom Park (East)",32
+"casual","Kedzie Ave & 24th St",19
+"member","Budlong Woods Library",89
+"member","Central Ave & Madison St",15
+"member","Austin Blvd & Madison St",82
+"member","Kedzie Ave & Leland Ave",208
+"casual","Cottage Grove Ave & 111th Pl",22
+"casual","Kilbourn & Belden",35
+"member","Elizabeth St & 59th St",53
+"casual","Dodge Ave & Church St",43
+"casual","Lavergne & Fullerton",50
+"member","Public Rack - Racine Ave & 109th Pl",50
+"member","Public Rack - California Ave & Devon Ave - NE",3
+"casual","Indiana Ave & 103rd St",17
+"casual","Western Ave & Howard St",36
+"member","Kenton Ave & Madison St",14
+"casual","Cicero Ave & Flournoy St",9
+"member","Long Ave & North Ave",2
+"casual","Cicero Ave & Quincy St",6
+"casual","Albany Ave & Douglas Blvd",1
+"casual","Seeley Ave & Garfield Blvd",14
+"casual","California Ave & Byron St",85
+"casual","Cicero Ave & Lake St",9
+"member","Karlov Ave & Madison St",6
+"casual","Laramie Ave & Gladys Ave",6
+"casual","Hermitage Ave & Polk St",79
+"member","Campbell Ave & Fullerton Ave",198
+"casual","Public Rack - Kilbourn Ave & Fullerton Ave",8
+"casual","Public Rack - Greenwood Ave & Lake Park Ave",1
+"casual","Ridge Blvd & Howard St",27
+"member","Laramie Ave & Kinzie St",7
+"casual","Washtenaw Ave & Ogden Ave",16
+"casual","Racine Ave & Garfield Blvd",11
+"member","Public Rack - Pulaski Rd & 44th St",23
+"member","Public Rack - Pulaski & 52nd",2
+"member","Rhodes Ave & 71st St",4
+"member","Halsted St & North Branch St",291
+"member","Racine Ave & Garfield Blvd",17
+"casual","Public Rack - State ST & 42nd St",2
+"member","Ashland Ave & 50th St",28
+"casual","Halsted St & North Branch St",177
+"member","Kildare Ave & 55th St",1
+"casual","Valli Produce - Evanston Plaza",43
+"member","Racine Ave & 35th St",137
+"member","Wallace St & 35th St",98
+"member","Public Rack - Neva Ave & Grand Ave",1
+"member","Oak Park & Wellington",5
+"member","Stony Island Ave & 67th St",20
+"member","Public Rack - Loomis St & 87th St",43
+"casual","Spaulding Ave & 16th St",5
+"member","Wentworth Ave & 63rd St",20
+"casual","Public Rack - Menard Ave & Adams Blvd",1
+"member","Cottage Grove Ave & 83rd St",40
+"member","Public Rack - Christiana Ave & Archer Ave",26
+"casual","Public Rack - Christiana Ave & Archer Ave",12
+"casual","Dodge Ave & Main St",32
+"casual","Yates Blvd & Exchange Ave",1
+"member","Ashland Ave & 63rd St",12
+"member","MLK Jr Dr & 63rd St",4
+"member","Loomis St & 89th St",22
+"casual","Halsted St & 37th St",27
+"casual","University Library (NU)",95
+"casual","MLK Jr Dr & 63rd St",7
+"casual","Public Rack - Kimbark Ave & 63rd St",1
+"casual","Public Rack - Roscoe St & Osceola Ave",2
+"member","Washtenaw Ave & Peterson Ave",27
+"member","Public Rack - Kedzie Ave & Archer Ave",9
+"member","Public Rack - Pulaski Rd & 65th St",1
+"member","Public Rack - Ashland Ave & 63rd St",1
+"member","Austin Blvd & Lake St",41
+"casual","Kedzie Ave & Foster Ave",126
+"casual","Public Rack - Lorel Ave & Grand Ave",4
+"member","Washtenaw Ave & Superior St",2
+"member","Oketo Ave & Addison St",4
+"member","Stewart Ave & 83rd St",11
+"member","Kolin Ave & Archer Ave",1
+"casual","Public Rack - Laramie Ave & Belmont Ave",4
+"casual","Shabbona Park",11
+"member","Evans Ave & 75th St",24
+"member","Mozart St & Jackson Blvd",29
+"member","Harlem & Irving Park",12
+"casual","Public Rack - Kenton Ave & Palmer St",20
+"member","Elizabeth St & 47th St",13
+"casual","Ashland Ave & Archer Ave",82
+"member","Public Rack - Kenton Ave & Palmer St",6
+"casual","Hoyne Ave & 47th St",33
+"casual","Bennett Ave & 79th St",7
+"member","Public Rack - California Ave & Devon Ave - NW",8
+"member","Millard Ave & 26th St",73
+"member","Harding Ave & 26th St",10
+"member","Ellis Ave & 83rd St",5
+"casual","Ellis Ave & 83rd St",8
+"casual","Harding Ave & 26th St",24
+"casual","Big Marsh Park",56
+"casual","Altgeld Gardens",12
+"member","Yates Blvd & 75th St",14
+"casual","Long Ave & Belden Ave",24
+"member","Richmond St & Lincoln Ave",37
+"member","Lawndale Ave & 111th St",7
+"member","Morgan St & Pershing Rd",16
+"member","Halsted St & 96th St",88
+"casual","Elizabeth St & 59th St",9
+"member","Homan Ave & 65th St",6
+"member","Central Ave & Roscoe St",87
+"casual","Calumet Park",31
+"member","Public Rack - Hoyne Ave & 110th Pl",25
+"member","Calumet Park",10
+"casual","Mason Ave & Belmont Ave",30
+"casual","Public Rack - California Ave & Touhy Ave - NW",12
+"casual","Public Rack - Francisco Ave & Touhy Ave",3
+"member","Public Rack - Walden Pkwy & 103rd St",41
+"member","Mayfield & Roosevelt Rd",3
+"member","Major Ave & Bloomingdale Ave",1
+"casual","Halsted St & 63rd St",40
+"member","Cicero Ave & Grace St",18
+"casual","Sacramento Ave & 25th St",4
+"casual","Pulaski & Ann Lurie Pl",10
+"casual","Eggleston Ave & 92nd St",1
+"member","Woodlawn & 103rd - Olive Harvey Vaccination Site",7
+"member","Ping Tom Park (East)",16
+"member","St. Louis Ave & Balmoral Ave",106
+"member","Public Rack - Harold Washington Park",21
+"member","Walden Pkwy & 100th St",11
+"member","State St & 95th St",83
+"casual","Public Rack - Ashland Ave & 91st St",1
+"casual","Lavergne Ave & 46th St",11
+"casual","Francisco Ave & Hollywood Ave",21
+"casual","Pubic Rack - Pulaski Rd & 41st",7
+"casual","Lawndale Ave & 111th St",24
+"casual","Public Rack - Throop St & 109th Pl",2
+"casual","Yates Blvd & 93rd St",12
+"member","Princeton Ave & Garfield Blvd",19
+"casual","Public Rack - Western Ave & 107th Pl",1
+"casual","Campbell Ave & Irving Park Rd",49
+"member","South Shore Dr & 74th St",45
+"member","Public Rack - Loomis Blvd & 83rd St",1
+"member","Stony Island Ave & South Chicago Ave",18
+"member","Stony Island Ave & 75th St",17
+"member","Major Taylor Trail & 124th St",1
+"member","Public Rack - Kedzie Ave & 64th St - SE",1
+"casual","Stony Island Ave & 75th St",10
+"casual","State St & 29th St",26
+"member","Tripp Ave & 15th St",13
+"member","Halsted St & 63rd St",15
+"casual","Elizabeth St & 92nd St",4
+"casual","Millard Ave & 26th St",40
+"casual","Tripp Ave & 15th St",13
+"member","Public Rack - Monticello Ave & Belmont Ave",27
+"member","Troy St & Jackson Blvd",5
+"member","Public Rack - Division St & Christiana Ave",3
+"member","Sawyer Ave & Irving Park Rd",105
+"member","Public Rack - Central Ave & George St",7
+"casual","Washtenaw Ave & Madison St",8
+"casual","State St & 54th St",2
+"member","Central Ave & Chicago Ave",50
+"member","Kedzie Ave & 24th St",28
+"member","Sacramento Ave & 25th St",5
+"casual","Carpenter St & 63rd St",1
+"casual","Oglesby Ave & 100th St",7
+"casual","Major Taylor Trail & 124th St",4
+"member","Public Rack - Lafayette Ave & 95th St",7
+"casual","Central Park Blvd & 5th Ave",5
+"casual","St. Louis Ave & Balmoral Ave",39
+"casual","Walden Pkwy & 100th St",16
+"member","Public Rack - Tripp Ave & North Ave",5
+"casual","Michigan Ave & 71st St",8
+"member","Public Rack - California Ave & Touhy Ave - NW",14
+"casual","Kildare Ave & 47th St",20
+"member","Public Rack - Menard Ave & Agusta Blvd",1
+"member","Calumet Ave & 71st St",6
+"member","East End Ave & 87th St",27
+"casual","North Ave & New England Ave",6
+"casual","Karlov Ave & Madison St",8
+"casual","Kildare Ave & Chicago Ave",9
+"casual","Public Rack - Central Ave & Corcoran Pl",4
+"casual","Troy Ave & 27th St",11
+"member","Troy Ave & 27th St",2
+"casual","Public Rack - Harold Washington Park",7
+"member","Clinton St & Polk St",137
+"casual","Sacramento Blvd & Addison St",94
+"casual","Clinton St & Polk St",83
+"casual","Marquette Ave & 89th St",16
+"member","Sacramento Blvd & Addison St",48
+"casual","East End Ave & 87th St",11
+"member","Throop St & 52nd St",5
+"casual","Calumet Ave & 71st St",5
+"member","Public Rack - Kildare Ave & North Ave",9
+"casual","Woodlawn & 103rd - Olive Harvey Vaccination Site",26
+"member","Menard Ave & Division St",6
+"casual","Keeler Ave & Roosevelt Rd",1
+"member","Kenneth Ave & 50th St",1
+"casual","Kenneth Ave & 50th St",9
+"member","Pulaski & Ann Lurie Pl",15
+"member","Kildare Ave & 47th St",16
+"casual","Oakley Ave & Touhy Ave",24
+"member","Springfield Ave & 47th St",15
+"casual","Loomis St & 89th St",14
+"casual","Public Rack - Kedzie Ave & Archer Ave",9
+"member","Wolcott Ave & Fargo Ave",24
+"member","Constance Ave & 95th St",16
+"member","Central Ave & Lake St",8
+"member","Albany Ave & 26th St",7
+"member","Public Rack - Pullman - Walmart",2
+"member","Maryland Ave & 104th St",28
+"casual","Throop St & 52nd St",8
+"casual","Eberhart Ave & 131st St",3
+"member","California Ave & Marquette Rd",4
+"casual","Public Rack - Kedzie Ave & 61st Pl E",3
+"member","Francisco Ave & 47th St",11
+"member","Public Rack - Woodlawn Ave & 63rd St N",17
+"casual","Sacramento Ave & Pershing Rd",12
+"casual","State St & 76th St",8
+"casual","Kildare Ave & 26th St",16
+"member","Conservatory Dr & Lake St",28
+"member","Kostner Ave & Wrightwood Ave",32
+"member","Torrence Ave & 126th Pl",1
+"casual","Wolcott Ave & Fargo Ave",13
+"member","Exchange Ave & 79th St",9
+"member","Augusta Blvd & Laramie Ave",2
+"member","Public Rack - Menard Ave & Grand Ave",1
+"casual","Public Rack - Oketo Ave & Belmont Ave",2
+"casual","Public Rack - Western Ave & 104th St - West",1
+"member","Public Rack - Brainerd Park",4
+"casual","Shields Ave & 43rd St",10
+"casual","Dodge Ave & Mulford St",23
+"casual","Houston Ave & 92nd St",4
+"member","Loomis Blvd & 84th St",13
+"member","Public Rack - Cicero Ave & Cortland St - midblock",2
+"casual","Maryland Ave & 104th St",20
+"member","Halsted St & 111th St",24
+"casual","State St & Pershing Rd",7
+"casual","Public Rack - Western Ave & 110th St",3
+"member","MLK Jr Dr & 83rd St",9
+"member","Public Rack - Penn Elementary School / KIPP Ascend Middle School",1
+"casual","Augusta Blvd & Laramie Ave",2
+"member","Latrobe Ave & Chicago Ave",6
+"casual","Public Rack - Central Ave & George St",2
+"casual","Public Rack - Bell Ave & 95th St",3
+"casual","Monticello Ave & Chicago Ave",8
+"member","Hoyne Ave & 47th St",29
+"casual","Leavitt St & Archer Ave",69
+"casual","Narragansett Ave & School St",8
+"member","Public Rack - Western Ave & Jarvis Ave",5
+"member","Green St & Madison Ave*",92
+"casual","Green St & Madison Ave*",39
+"casual","Public Rack - Western Ave & Jarvis Ave",4
+"member","Lincoln Ave & Peterson Ave",76
+"casual","Public Rack - Kedzie Ave & 58th St",4
+"casual","Stewart Ave & 63rd St",7
+"member","Public Rack - Stewart Ave & 123rd St",3
+"casual","May St & 69th St",3
+"casual","Major Taylor Trail & 115th St",21
+"casual","Public Rack - Kedzie Ave & 64th St - SE",1
+"casual","Halsted St & 111th St",10
+"member","Leavitt St & Archer Ave",94
+"casual","Western Ave & 28th St",15
+"member","Lamon Ave & Belmont Ave",34
+"member","Campbell Ave & Montrose Ave (Temp)",69
+"casual","Public Rack - Campbell Ave & Pratt Blvd",3
+"member","Public Rack - Washtenaw Ave & Superior St",49
+"member","Ashland Ave & 66th St",6
+"casual","Campbell Ave & Montrose Ave (Temp)",19
+"casual","Rhodes Ave & 71st St",5
+"member","Elizabeth St & Fulton St",673
+"casual","Central Ave & Roscoe St",18
+"casual","Archer Ave & 43rd St",11
+"casual","Ashland Ave & 78th St",5
+"member","Public Rack - Milwaukee Ave & Addison St",17
+"casual","Public Rack - Loomis St & 87th St",3
+"member","Public Rack - Kedzie Ave & 58th St",3
+"casual","Pulaski Rd & 21st St",17
+"member","Artesian Ave & 55th St",24
+"member","Pulaski Rd & 21st St",5
+"member","Olive Harvey College",4
+"member","Rainbow Beach",9
+"casual","Campbell Ave & 51st St",3
+"casual","Elizabeth St & Fulton St",229
+"member","Public Rack - Chase Ave & Touhy Ave - NE",3
+"casual","Tripp Ave & 65th St",4
+"casual","Public Rack - Western Ave & 92nd Pl",5
+"casual","Central Ave & Parker Ave",10
+"casual","Public Rack - Western Ave & 79th St",2
+"member","Central Park Ave & 24th St",35
+"member","Western Ave & 28th St",10
+"member","Public Rack - Claremont Ave & 71st St",1
+"member","Western Ave & 62nd St",5
+"member","Lavergne & Fullerton",7
+"member","Public Rack - Pullman Community Center",1
+"casual","Public Rack - King Dr & 83rd St",1
+"member","Meade Ave & Addison St",3
+"casual","Public Rack - Western Ave & Devon Ave",11
+"casual","Vincennes Ave & 104th St",8
+"casual","Public Rack - Pulaski Rd & Lake St",1
+"member","Public  Rack - Albany Ave & 63rd St",1
+"member","Commercial Ave & 100th St",5
+"member","Homewood Ave & 115th St",18
+"member","Lamon Ave & Armitage Ave",10
+"member","Public Rack - Kedzie Ave & 54th Pl",1
+"member","Jeffery Blvd & 76th St",10
+"member","Public Rack - Nagle Ave & Belmont Ave",34
+"casual","Public Rack - Percy Julian HS",2
+"casual","Kostner Ave & 63rd St",17
+"member","Public Rack - Harriet E Sayre Public School",1
+"member","Public Rack - Menard Ave & Dakin St - midblock",1
+"casual","Maplewood Ave & 59th St",13
+"member","Damen Ave & Coulter St",70
+"member","Kedzie Ave & 45th St",44
+"casual","Kedzie Ave & 45th St",15
+"member","Campbell Ave & 51st St",7
+"casual","Broadway & Wilson Ave",405
+"member","Broadway & Wilson Ave",913
+"casual","Public Rack - Cottage Grove Ave & 98th St",2
+"casual","Public Rack - McCormick Blvd & Devon Ave",8
+"casual","Public Rack - Washtenaw Ave & Superior St",29
+"member","Major Taylor Trail & 115th St",14
+"member","Nordica & Medill",7
+"member","Public Rack - Kedzie Ave & 61st Pl E",2
+"member","Torrence Ave & 106th St",4
+"member","Public Rack - Kedzie Ave & 63rd St",1
+"casual","Bloomingdale Ave & Harlem Ave",6
+"casual","Homan Ave & Fillmore St",3
+"member","Public Rack - West Chatham Park",1
+"member","Tripp Ave & 65th St",2
+"casual","Troy St & Jackson Blvd",4
+"member","Public Rack - Kimball Ave & Carmen Ave",8
+"casual","Public Rack - Midway Orange Line",8
+"casual","Public Rack - Avers Ave & Irving Park Rd",7
+"member","Public Rack - Wood St & 47th St",1
+"casual","Public Rack - Baltimore Ave & 132nd St",1
+"casual","Lockwood Ave & Wrightwood Ave",4
+"casual","Public Rack - Kedzie Ave & Walnut St",1
+"member","Ada St & 113th St",2
+"member","Harlem Ave & Grace St",3
+"member","Perry Ave & 69th St",14
+"casual","Sacramento Blvd & Franklin Blvd",25
+"casual","Greenwood Ave & 79th St",9
+"casual","Lawndale Ave & 16th St",7
+"member","Public Rack - Narragansett Ave & Fullerton Ave",1
+"casual","Public Rack - Western Blvd & 49th St",26
+"member","State St & Pershing Rd",12
+"casual","Ashland Ave & Pershing Rd",15
+"member","Public Rack - Calumet Ave & 51st St",1
+"member","Clifton Ave & Armitage Ave",1066
+"casual","Broadway & Belmont Ave",819
+"member","Sangamon St & Lake St",1560
+"member","Shields Ave & 31st St",563
+"casual","Ashland Ave & Chicago Ave",248
+"member","Ashland Ave & Chicago Ave",690
+"member","Broadway & Belmont Ave",1789
+"member","Sedgwick St & North Ave",1427
+"member","Malcolm X College",212
+"casual","Clifton Ave & Armitage Ave",491
+"casual","Sedgwick St & North Ave",680
+"casual","Sangamon St & Lake St",566
+"casual","Shields Ave & 31st St",110
+"member","Archer Ave & 43rd St",6
+"member","Marshfield Ave & 44th St",32
+"member","Archer (Damen) Ave & 37th St",60
+"casual","Central Park & Augusta Blvd",9
+"casual","Public Rack - Marshfield Ave & 87th St",3
+"casual","Damen Ave & Coulter St",34
+"casual","Public Rack - Hoyne Ave & 110th Pl",5
+"casual","Public Rack - Perry Ave & 108th Pl",3
+"casual","Damen Ave & 74th St",3
+"casual","Menard Ave & North Ave",9
+"member","Kostner Ave & Lake St",8
+"casual","Public Rack - Kildare Ave & Division St",8
+"member","Bennett Ave & 79th St",1
+"member","Public Rack - Austin Ave & Roscoe St",6
+"member","Marshfield Ave & 59th St",3
+"member","Stony Island Ave & 90th St",5
+"casual","Kostner Ave & Lake St",8
+"member","Public Rack - Halsted St & 95th St - SE",6
+"casual","Public Rack - Kolin Ave & Archer Ave",2
+"casual","Malcolm X College",65
+"member","Public Rack - Longwood Dr & 111th St",7
+"member","Loomis St & Lexington St*",158
+"casual","Loomis St & Lexington St*",24
+"casual","Public Rack - Woodlawn Ave & 63rd St N",17
+"casual","Virginia Ave & Catalpa Ave",10
+"member","Cottage Grove Ave & 78th St",8
+"casual","Kilpatrick Ave & Grand Ave",16
+"member","Public Rack - Cicero Ave & Wrightwood Ave",23
+"member","Cornell Dr & Hayes Dr",2
+"member","Public Rack - Western Blvd & 49th St",14
+"casual","Lawler Ave & 50th St",18
+"casual","Rockwell St & Fletcher St",49
+"member","Public Rack - King Dr & 115th St",5
+"casual","Public Rack - Austin Ave & Wrightwood Ave",9
+"member","Virginia Ave & Catalpa Ave",8
+"casual","Public Rack - Pulaski & 52nd",6
+"member","Public Rack - Vincennes Ave & 95th St",1
+"member","Public Rack - Champlain Ave & 65th St",31
+"casual","Public Rack - Champlain Ave & 65th St",12
+"casual","Halsted St & 104th St",4
+"casual","Public Rack - Wood St & 103rd St",8
+"member","Public Rack - Parnell Ave & 103rd St",1
+"casual","Kenton Ave & Madison St",4
+"member","Central Park Blvd & 5th Ave",6
+"member","Public Rack - Kenneth Ave & 63rd St E",1
+"member","Central Park Ave & Ohio St",4
+"casual","Central Park Ave & Ohio St",10
+"casual","Pulaski Rd & 60th St",22
+"casual","Wood St & 35th St",23
+"casual","Public Rack - Lawndale Ave & 23rd St",4
+"member","Public Rack - Pulaski Rd & Fullerton Ave",4
+"member","Public Rack - Houston Ave & 131st St",3
+"member","Eggleston Ave & 92nd St",2
+"casual","Public Rack - Houston Ave & 131st St",2
+"casual","Loomis Blvd & 84th St",1
+"casual","Tripp Ave & 31st St",11
+"member","Halsted St & 104th St",2
+"casual","Public Rack - Pulaski Rd & Fullerton Ave",2
+"casual","Springfield Ave & 47th St",18
+"member","Narragansett & McLean",7
+"casual","Albany Ave & 16th St",7
+"member","Albany Ave & 16th St",5
+"member","Indiana Ave & 103rd St",11
+"casual","Public Rack - Avenue J & 102nd St",1
+"member","Public Rack - Avenue J & 112th St",1
+"casual","Public Rack - Fullerton Ave & Lavergne Ave",1
+"casual","Public Rack - Ewing Ave & 99th St",1
+"member","Public Rack - Cicero Ave & Altgeld St",1
+"casual","Public Rack - Avenue J & 112th St",1
+"member","Ashland Ave & Garfield Blvd",3
+"member","Maplewood Ave & 59th St",1
+"casual","Public Rack - Linder Ave & Belmont Ave",1
+"member","Public Rack - Forrestville Ave & 47th St",1
+"casual","Public Rack - Kenneth Ave & 63rd St E",2
+"casual","Public Rack - Kedzie Ave & 54th St - SE",2
+"casual","Public Rack - Hyde Park Blvd & 55th St",5
+"casual","N Clark St & W Elm St",8
+"member","Public Rack - Pulaski Rd & 51st Rd",1
+"casual","Public Rack - Pulaski Rd & 51st Rd",3
+"casual","Public Rack - Austin Ave & Roscoe St",4
+"member","Public Rack - Ashland Ave & 76th St",4
+"casual","Public Rack - Talman Ave & 51st St",1
+"casual","Roscoe & Harlem",9
+"casual","Public Rack - Ashland Ave & 76th St",6
+"member","Public Rack - Kildare Ave & Division St",1
+"casual","Public Rack - Western Ave & 105th St",1
+"member","Sacramento Ave & Pershing Rd",4
+"casual","Public Rack - Harvard Ave & 103rd St",3
+"member","Public Rack - Homan Ave & 26th St",1
+"casual","Public Rack - Cicero Ave & Wrightwood Ave",4
+"member","Halsted St & 69th St",3
+"member","Kilpatrick Ave & Grand Ave",6
+"casual","Public Rack - Abbott Park",2
+"member","Public Rack - Evans Ave & 63rd St",2
+"member","Public Rack - Prairie Ave & 47th St ",21
+"casual","Public Rack - Kedzie Ave & 62nd Pl",1
+"member","Public Rack - Newcastle Ave & Wellington Ave",1
+"casual","Public Rack - Racine Ave & 109th Pl",2
+"member","Public Rack - Brandon Ave & 91st St",1
+"member","California Ave & 36th St",2
+"casual","Public Rack - Avondale Ave & Addison St",4
+"casual","Public Rack - Lorel Ave & Chicago Ave",1
+"member","Public Rack - Whipple St & 63rd St",2
+"casual","Torrence Ave & 106th St",4
+"casual","Public Rack - Whipple St & 63rd St",1
+"casual","Public Rack - Stewart Ave & 123rd St",4
+"casual","Public Rack - Nordica Ave & Addison St",2
+"member","Eastlake Ter & Howard St",99
+"casual","Public Rack - King Dr & 115th St",6
+"casual","Sacramento Blvd & Fulton Ave",23
+"casual","Public Rack - Western Ave & 104th St - East",1
+"casual","Greenwood Ave & 91st St",12
+"casual","Eastlake Ter & Howard St",53
+"casual","Kildare & Cermak",11
+"member","Roscoe & Harlem",5
+"casual","Public Rack - Drake Ave & Leland Ave",4
+"casual","Public Rack - Michigan Ave & 96th St",8
+"casual","Public Rack - Walden Pkwy & 103rd St",12
+"member","Public Rack - Ashland Ave & 74th St",1
+"casual","Public Rack - Talman Ave & Pershing Rd",7
+"casual","Public Rack - Burnside Academy",1
+"member","Public Rack - Melvina Ave & Belmont Ave",2
+"casual","Public Rack - Melvina Ave & Belmont Ave",9
+"member","Kedzie Ave & 110th St",4
+"member","Public Rack - Robert Fulton Elementary School",1
+"member","Public Rack - Midway Orange Line",3
+"member","Public Rack - Rockwell Ave & Touhy Ave ",17
+"casual","Public Rack - Kildare Ave & North Ave",2
+"casual","Public Rack - Hamlin Ave & Grand Ave",2
+"casual","Richmond St & 59th St",2
+"casual","W 103rd St & S Avers Ave",4
+"member","Public Rack - Hamlin Ave & Grand Ave",1
+"casual","Public Rack - Western Ave & 47th Pl",2
+"casual","Public Rack - California Ave & Devon Ave - NE",3
+"casual","Western Ave & 62nd St",2
+"member","Richmond St & 59th St",1
+"member","Pulaski Rd & Lake St",16
+"casual","Public Rack - Buffalo Ave & 133rd St",1
+"casual","Jeffery Blvd & 76th St",9
+"member","Pulaski Rd & 60th St",2
+"casual","Komensky Ave & 55th St",12
+"casual","Public Rack - Colfax Ave & 83rd St",1
+"casual","Central Park Ave & Ogden Ave",64
+"member","Central Park Ave & Ogden Ave",42
+"member","Public Rack - Buffalo Ave & 133rd St",1
+"member","Public Rack - Wood St & 103rd St",2
+"casual","Commercial Ave & 130th St",9
+"member","Sacramento Blvd & Fulton Ave",18
+"casual","Hamlin Ave & 62nd Pl",8
+"casual","Ashland Ave & 74th St",6
+"member","South Shore Dr & 71st St",33
+"member","Komensky Ave & 55th St",12
+"casual","Public Rack - Christiana Ave & 55th St",2
+"casual","Public Rack - Pulaski Rd & 44th St",3
+"member","Lawler Ave & 50th St",6
+"casual","Public Rack - Pulaski Rd & 65th St",6
+"casual","Public Rack - Maplewood Ave & 47th St",1
+"member","Fairfield Ave & 44th St",18
+"casual","Halsted St & 59th St",1
+"member","Eggleston Ave & 69th St",38
+"member","MLK Jr Dr & 56th St",4
+"member","Pulaski Rd & Congress Pkwy",9
+"member","Parkside Ave & Armitage Ave",1
+"casual","Public Rack - Ashland Ave & 71st St",2
+"member","Public Rack - Cottage Grove & 85th St",1
+"casual","Public Rack - Cicero Ave & North Ave",1
+"member","Public Rack - Loomis Blvd & 47th St",1
+"member","Woodlawn Ave & 75th St",6
+"member","Cottage Grove Ave & 71st St",8
+"casual","Public Rack - Karlov Ave & Milwaukee Ave",2
+"member","Public Rack - 111th St - Morgan Park Metra",3
+"member","Public Rack - Mt Greenwood Library - South",1
+"casual","Long Ave & North Ave",3
+"member","Public Rack - Rockwell & 111th St",8
+"casual","Public Rack - Laramie Ave & Fullerton Ave",3
+"casual","Public Rack - Western Ave & 96th St",3
+"member","Monticello Ave & Chicago Ave",2
+"member","Public Rack - Sawyer Ave & Lawrence Ave",1
+"casual","Eggleston Ave & 69th St",38
+"member","Public Rack - Rockwell & Division",9
+"casual","Long Ave & Belmont Ave",12
+"member","Whipple St & Roosevelt Rd",1
+"casual","Morgan St & Pershing Rd",7
+"casual","Western Ave & Lake St",9
+"casual","Normal Ave & Archer Ave",20
+"member","Public Rack - Spaulding Ave & Bryn Mawr Ave",6
+"casual","Harlem Ave & Grace St",9
+"member","Public Rack - Legler Regional Library",1
+"member","Elston Ave & Henderson St",52
+"casual","Public Rack - Rockwell & Division",1
+"member","Public Rack - Baltimore Ave & 133rd St",4
+"member","Public Rack - Avenue J & 102nd St",1
+"member","St Louis Ave & Norman Bobbins Ave",6
+"member","Public Rack - Hyde Park Blvd & 53rd St",14
+"casual","Public Rack - Wood St & 47th St",2
+"casual","Cottage Grove Ave & 78th St",7
+"member","Commercial Ave & 83rd St",7
+"member","Wabash Ave & 83rd St",1
+"member","Michigan Ave & 71st St",12
+"casual","Public Rack - Kildare Ave & Washignton Blvd",1
+"casual","Mayfield & Roosevelt Rd",3
+"member","Public Rack - California Ave & Marquette Rd",4
+"casual","Public Rack - Komensky Ave & 59th St",2
+"casual","Stony Island Ave & 63rd St",12
+"member","Spaulding Ave & 16th St",2
+"member","Marquette Ave & 89th St",4
+"casual","Greenwood Ave & 97th St",7
+"casual","Public Rack - Washtenaw Ave & Devon Ave",9
+"casual","Public Rack - California Ave & Marquette Rd",11
+"casual","Public Rack - Mt Greenwood Library - South",1
+"casual","Public Rack - Newland Ave & Diversey Ave",2
+"member","Stony Island Ave & 63rd St",17
+"member","La Villita Park (Albany/30th)",3
+"casual","Ewing Ave & Burnham Greenway",4
+"member","Greenwood Ave & 79th St",5
+"casual","Public Rack - Harper Ave & 63rd St",1
+"casual","Ashland Ave & 50th St",13
+"casual","Public Rack - Komensky Ave & 31st St",4
+"casual","Public Rack - Western Ave & 100th St",3
+"member","Public Rack - Oglesby Ave & 95th St",1
+"casual","Public Rack - Kedzie Ave & 63rd St",3
+"member","Public Rack - Lawndale Ave & 63rd St",1
+"casual","Public Rack - Prairie Ave & 47th St ",12
+"casual","Public Rack - Pittsburgh Ave & Irving Park",2
+"member","Public Rack - Western Ave & 111th St - SE",2
+"member","Meade Ave & Diversey Ave",1
+"casual","Hegewisch Metra Station",4
+"member","Public Rack - Indiana Ave & 111th St",1
+"casual","Public Rack - Hamilton Ave & 95th St",3
+"casual","Public Rack - Nagle Ave & Belmont Ave",7
+"casual","Prospect Sq & 91st St",26
+"casual","Public Rack - Komensky Ave & 26th St",2
+"member","Public Rack - Bell Ave & 95th St",2
+"casual","Public Rack - Western Ave & 111th St - SE",2
+"member","Hastings LWS",10
+"casual","Hastings LWS",2
+"member","Hegewisch Metra Station",5
+"casual","Indiana Ave & 133rd St",7
+"member","Public Rack - Throop St & 109th Pl",2
+"member","Public Rack - Kedzie Ave & 54th St - SE",2
+"member","Public Rack - Washington Park Ct & 51st St",2
+"casual","Public Rack - Indiana Ave & 111th St",3
+"casual","Public Rack - Harding Ave & 47th St",2
+"casual","Public Rack - Damen Ave & 80th St",1
+"casual","Public Rack - Cicero Ave & Wellington Ave",1
+"member","Public Rack - South Shore Dr & 71st St",3
+"member","Prospect Sq & 91st St",9
+"member","Long Ave & Belden Ave",14
+"member","Public Rack - Ewing Ave & 95th St",1
+"casual","Public Rack - Grand Ave & North Ave",1
+"casual","Public Rack - Chase Ave & Touhy Ave - NE",1
+"member","Public Rack - Kilbourn Ave & Fullerton Ave",19
+"casual","Public Rack - Avers Ave & Archer Ave",5
+"member","Public Rack - Lawndale Ave & 23rd St",1
+"member","Western Ave & Lake St",6
+"casual","Public Rack - Canty Elementary School",1
+"casual","Steelworkers Park",5
+"casual","Public Rack - Keeler Ave & 26th St",2
+"casual","Public Rack - Emerald Ave & 43rd St",1
+"member","Central Park & Augusta Blvd",2
+"member","Vernon Ave & 79th St",4
+"member","Public Rack - Fairfield Ave & 63rd St",1
+"member","Ewing Ave & Burnham Greenway",1
+"member","Rockwell St & 57th St",6
+"member","Clyde Ave & 87th St",3
+"member","Rockwell St & 63rd St",1
+"casual","Public Rack - Kedzie Ave & 54th St - SW",2
+"member","Public Rack - Kedzie Ave & 54th St - SW",1
+"casual","Public Rack - Rutherford Ave & Belmont Ave",3
+"member","Elizabeth St & Randolph St",464
+"member","Wells St & Institute Pl",636
+"casual","Public Rack - Keeler Ave & 55th St",1
+"casual","Elizabeth St & Randolph St",205
+"casual","Halsted St & Fulton St",445
+"casual","Olive Harvey College",6
+"member","Halsted St & Fulton St",795
+"casual","Wells St & Institute Pl",295
+"casual","Public Rack - Albany Ave & 111th St - NW",1
+"member","Central Ave & Harrison St",4
+"casual","Pulaski Rd & Congress Pkwy",6
+"member","Public Rack - Troy & 111th St",1
+"member","Halsted St & 47th Pl",12
+"member","Public Rack - Komensky Ave & 31st St",6
+"casual","Public Rack - Laramie Ave & Warwick Ave",3
+"casual","Eberhart Ave & 91st St",4
+"member","Keeler Ave & Roosevelt Rd",1
+"casual","S Michigan Ave & E 118th St",6
+"casual","Public Rack - Christiana Ave & Bryn Mawr Ave",1
+"member","Public Rack - Mozart Elementary School",2
+"casual","Public Rack - Halsted St & 102nd St",1
+"member","Laramie Ave & Gladys Ave",1
+"member","Kilbourn & Belden",8
+"member","Public Rack - East End Ave & 87th St",1
+"member","Cicero Ave & Quincy St",9
+"member","Public Rack - Pulaski Rd & 41st",1
+"member","Ashland Ave & 78th St",1
+"member","Public Rack - Halsted St & 95th St - SW",1
+"member","Public Rack - Michigan Ave & 96th St",1
+"member","Public Rack - Komensky Ave & 63rd St",1
+"casual","Public Rack - Laporte Ave & Armitage Ave",2
+"member","Public Rack - Cicero Ave & North Ave",1
+"member","Eberhart Ave & 131st St",1
+"member","Public Rack - Kostner Ave & Wrightwood Ave",3
+"member","Public Rack - Normal Ave & 111th St",1
+"casual","Evans Ave & 75th St",3
+"member","Hamlin Ave & 62nd Pl",4
+"casual","Public Rack - Ewing Ave & 106th St",2
+"member","Kostner Ave & 63rd St",3
+"casual","Kildare Ave & 55th St",5
+"casual","Public Rack - East End Ave & 87th St",2
+"casual","Panama Ave & Grace St",11
+"casual","Public Rack - Western Ave & 98th St",1
+"member","South Chicago Ave & 83rd St",1
+"casual","Public Rack - Newcastle Ave & Belden Ave",3
+"member","Oglesby Ave & 100th St",4
+"member","Public Rack - Cottage Grove Ave & 75th St",1
+"casual","Racine Ave & 61st St",3
+"casual","Public Rack - Kedzie Ave & 60th St",1
+"casual","Halsted St & 47th Pl",14
+"member","State St & 76th St",4
+"casual","Public Rack - Kostner Ave & Wrightwood Ave",3
+"casual","Public Rack - Michigan Ave & 119th St",1
+"member","California Ave & Francis Pl",158
+"casual","Public Rack - Chopin Park",2
+"casual","California Ave & Francis Pl",110
+"casual","Public Rack - Western Ave & 106th St - West",1
+"member","Public Rack - Jonathan Y Scammon Public School",3
+"casual","Francisco Ave & Chicago Ave",19
+"member","Public Rack - Christiana Ave & Bryn Mawr Ave",1
+"casual","Public Rack - Forrestville Ave & 47th St",1
+"casual","Public Rack - South Shore Dr & 71st St",2
+"member","Lincoln Ave & Byron St",248
+"casual","Lavergne Ave & Division St",3
+"casual","Public Rack - Milwaukee Ave & Waveland Ave",1
+"casual","California Ave & 29th St",3
+"member","Public Rack - Halsted St & 109th St",1
+"member","Public Rack - Western Ave & 118th St",2
+"member","Francisco Ave & Hollywood Ave",2
+"member","Public Rack - Cottage Grove Ave & 98th St",1
+"casual","Lincoln Ave & Byron St",114
+"casual","Public Rack - Halsted St & 95th St - SE",1
+"casual","Narragansett & McLean",4
+"casual","Public Rack - Western Ave & 118th St",2
+"casual","Public Rack - Jeffery Blvd & 67th St",1
+"member","Menard Ave & North Ave",2
+"casual","Public Rack - Woodlawn Ave & 63rd St S",2
+"member","Public Rack - Sawyer Ave & Bryn Mawr Ave - SW",1
+"member","Public Rack - Albany Ave & 63rd St",2
+"casual","Homewood Ave & 115th St",3
+"member","Public Rack - Christiana Ave & Lawrence Ave",1
+"casual","Public Rack - Pulaski Rd & 15th St",1
+"casual","Public Rack - Avers & Lawrence",5
+"member","Public Rack - Kostner Ave & Lake St",1
+"member","Campbell Ave & Augusta Blvd",19
+"member","Francisco Ave & Chicago Ave",21
+"member","Wentworth Ave & 24th St",26
+"member","Public Rack - Odell & Talcott",1
+"member","Public Rack - Cumberland & Catherine",3
+"member","Wentworth Ave & Cermak Rd*",13
+"casual","Public Rack - Pulaski Rd & 83rd St",3
+"casual","Wentworth Ave & 24th St",12
+"casual","Public Rack - Damen & 87th",2
+"casual","Campbell Ave & Augusta Blvd",16
+"casual","Wentworth Ave & Cermak Rd*",12
+"casual","Pulaski Rd & Eddy St",36
+"member","Eberhart Ave & 91st St",2
+"member","Public Rack - Parkside & Archer",3
+"casual","Public Rack - Prairie Ave & Garfield Blvd N",1
+"casual","Public Rack - 63rd St and Natoma Ave",1
+"member","Public Rack - Avers & Lawrence",3
+"casual","Public Rack - Minuteman Park",1
+"casual","Public Rack - W. Talcott & N. Oriole",3
+"member","Public Rack - Christiana & Lincoln",1
+"casual","Public Rack - 63rd Pl & Narraganssett Ave",3
+"member","Public Rack - Damen & 81st",3
+"casual","Public Rack - Linder Ave & 64th Pl",1
+"member","Public Rack - Pulaski & 74th",3
+"casual","Public Rack - S. New England/ W. 65th",1
+"member","Public Rack - Keating & Peterson",1
+"casual","Public Rack - Oketo & Talcott",2
+"casual","Public Rack - Morgan St & 87th St",1
+"casual","Public Rack - Kostner Ave & Lake St",1
+"casual","Public Rack - Natoma Ave & 61st St",2
+"casual","Public Rack - Peterson Ave & Milwaukee Ave",2
+"member","Public Rack - Leland Ave & Melvina Ave",1
+"casual","Public Rack - Leland Ave & Melvina Ave",1
+"member","Kedzie Ave & 24th St (Temp)",1
+"casual","Public Rack - Canfield & Victoria",1
+"casual","Public Rack - Lotus Ave & Lawrence Ave",2
+"casual","Public Rack - Western & 83rd",1
+"member","Public Rack - Milwaukee Ave & Lawrence Ave",3
+"member","Public Rack - Olmstead Ave & Oliphant Ave",11
+"member","Public Rack - Touhy Ave & Oconto Ave",3
+"member","Public Rack - Milwaukee Ave & Culyer Ave",4
+"member","Public Rack - Oketo Ave & Belmont Ave",2
+"member","Pulaski Rd & Eddy St",29
+"casual","Parkside Ave & Armitage Ave",2
+"member","Public Rack - Marshfield Ave & 87th St",1
+"casual","Public Rack - Austin & 62nd",6
+"casual","Commercial Ave & 100th St",2
+"casual","Public Rack - Milwaukee Ave & Culyer Ave",3
+"casual","Public Rack - Hiawatha Park",1
+"casual","Damen Ave & 33rd St",6
+"casual","Kilbourn Ave & Irving Park Rd",22
+"casual","Public Rack - Maplewood Ave & 63rd St",2
+"member","Ashland Ave & 74th St",2
+"member","Public Rack - Hamlin Ave & Madison St",1
+"casual","Public Rack - Hamlin Ave & Madison St",2
+"member","Public Rack - Greenwood Ave & Lake Park Ave",2
+"casual","Wentworth Ave & 104th St",1
+"member","Public Rack - Kenton & Lawrence",5
+"casual","Public Rack - Mason & Archer",1
+"casual","Komensky Ave & 31st St",7
+"casual","Public Rack - Holbrook St & Milwaukee Ave",2
+"member","Public Rack - Lockwood & Archer",2
+"casual","Public Rack - Jensen Park",1
+"casual","Public Rack - 63rd & Western Ave S",1
+"casual","Public Rack - Austin & Higgins",2
+"casual","Public Rack - Baltimore Ave & 133rd St",1
+"member","Public Rack - Newland Ave & Diversey Ave",1
+"casual","Public Rack - Western & 79th",2
+"casual","Public Rack - Ashland Ave & 73rd St",1
+"casual","Public Rack - William J Onahan Public School",1
+"member","Public Rack - Kimball & Ardmore",1
+"casual","Public Rack - Meade Ave & Archer Ave",3
+"casual","Public Rack - Kilpatrick & Elston",2
+"member","Public Rack - Austin & Higgins",1
+"member","Commercial Ave & 130th St",2
+"casual","Avenue L & 114th St",2
+"casual","Public Rack - Sacramento & 71st",4
+"casual","Public Rack - Harlem and W. 59th",2
+"casual","Public Rack - Halsted St & 111th St",1
+"member","Cicero Ave & Lake St",1
+"member","Public Rack - Cottage Grove Ave & 87th St",1
+"member","Public Rack - Kedvale Ave & Peterson Ave",2
+"member","Public Rack - Lavergne & Lawrence",1
+"member","Public Rack - Marshfield Ave & 45th St",2
+"member","Public Rack - Homan Ave & Lake St",1
+"member","North Ave & New England Ave",2
+"member","Public Rack - Halsted St & 113th St",1
+"member","Public Rack - Neva & Foster",2
+"member","Steelworkers Park",1
+"casual","Public Rack - Northwest Hwy & Neva Ave",1
+"member","Public Rack - Nagel & Higgins",1
+"casual","Public Rack - Kinzua Ave & Devon Ave",1
+"casual","Public Rack - Olmstead Ave & Oliphant Ave",6
+"casual","Public Rack - Central Park & Bryn Mawr",2
+"casual","Public Rack - Lawndale Ave & 63rd St",1
+"member","Public Rack - Kinzua Ave & Devon Ave",1
+"casual","Public Rack - Ashland Ave & 83rd St",1
+"casual","Public Rack - 82nd st & Kedzie Ave",3
+"casual","Public Rack - S Menard & W 63rd",2
+"casual","Public Rack - Cottage Grove & 86th St",1
+"casual","Public Rack - Loomis Blvd & 47th St",1
+"casual","Public Rack - Irving Park Rd & Austin Ave",1
+"member","S Aberdeen St & W 106th St",2
+"casual","Public Rack - Kildare Ave & 63rd St",2
+"casual","Public Rack - Parkside & Archer",3
+"member","Public Rack - Northwest Hwy & Neva Ave",1
+"member","Public Rack - St Louis Ave & Berteau Ave",3
+"casual","Public Rack - Neva Ave & Grand Ave",1
+"casual","Public Rack - Kenneth Ave & 63rd St W",1
+"casual","Marshfield Ave & 59th St",1
+"member","Public Rack - California & 71st",1
+"casual","Public Rack - Elston Ave & Kenneth Ave",1
+"casual","Public Rack - Laramine Ave & Winnemac Ave",1
+"member","Public Rack - Austin Ave & Wrightwood Ave",1
+"casual","Public Rack - Cicero Ave & Cortland St - midblock",1
+"member","Public Rack - Kostner Ave & 16th St",1
+"member","Kildare Ave & Chicago Ave",1
+"member","Komensky Ave & 31st St",15
+"casual","Woodlawn & 103rd",3
+"member","Damen Ave & 33rd St",1
+"member","California Ave & 29th St",1
+"casual","Public Rack - Vincennes Ave & 95th St",1
+"casual","Public Rack - Exchange Ave & 73rd Pl",1
+"member","Public Rack - Laflin St & 51st St",4
+"member","Houston Ave & 92nd St",2
+"member","Public Rack - Cottage Grove & 86th St",1
+"casual","Public Rack - Racine Ave & 74th St",4
+"member","Public Rack - Racine Ave & 74th St",5
+"member","Public Rack - Rutherford Ave & Belmont Ave",2
+"casual","Public Rack - Damen Ave & 47th St",1
+"casual","Public Rack - St Louis Ave & Berteau Ave",1
+"casual","Public Rack - Cicero Ave & Belle Plaine Ave",1
+"member","Public Rack - Cicero Ave & Belle Plaine Ave",1
+"member","Public Rack - Avers & Granville",1
+"casual","Elizabeth St & 47th St",1
+"member","Public Rack - Forest Glen & Peterson",3
+"casual","Public Rack - Mont Clare Ave & Higgins Ave",1
+"casual","Public Rack - Milwaukee Ave & Kennedy Expy",1
+"casual","Public Rack - Haft Ave & Milwaukee Ave",1
+"casual","Public Rack - Kedzie Ave & 64th St - SW",1
+"casual","Public Rack - McVicker & 52nd",1
+"member","Public Rack - Laramine Ave & Winnemac Ave",3
+"casual","Public Rack - St Louis & Lincoln",1
+"casual","Public Rack - Lockwood & Archer",4
+"casual","Hamlin Ave & Grand Ave",3
+"casual","Public Rack - Lake Park Ave & 44th St",1
+"member","Public Rack - State ST & 42nd St",6
+"member","Public Rack - Damen Ave & 47th St",1
+"casual","Public Rack - Ford City Mall",1
+"casual","Public Rack - Forest Glen & Peterson",1
+"casual","Public Rack - 4810 Keeler Ave",1
+"casual","Public Rack - Milwaukee Ave & Lawrence Ave",2
+"casual","Public Rack - Milwaukee Ave & Warner Ave",1
+"member","Public Rack - 56th St & Mulligan Ave",1
+"casual","Public Rack - Prairie Ave & Garfield Blvd S",1
+"member","Public Rack - Mulligan Ave & 56th St",1
+"casual","Public Rack - 532 E 43rd St",1
+"casual","Public Rack - Washington Park Ct & 51st St",1
+"member","Fort Dearborn Dr & 31st St*",99
+"member","Lincoln Ave & Melrose St",110
+"casual","Lincoln Ave & Melrose St",31
+"member","Public Rack - Talman Ave & Pershing Rd",1
+"member","Public Rack - Central Park & Bryn Mawr",1
+"member","Public Rack - Sawyer Ave & Chicago Ave",6
+"member","Public Rack - Laflin St &51st ST",2
+"casual","Bradley Park",2
+"casual","Fort Dearborn Dr & 31st St*",100
+"member","Public Rack - Lynch & Elston",1
+"casual","Public Rack - Mason Ave & Archer Ave",1
+"member","Public Rack - Pulaski & Rosemont",3
+"casual","Public Rack - Garfield Park Conservatory",1
+"casual","Public Rack - 61st St & Melvina Ave",2
+"casual","Public Rack - Calumet Ave & 51st St",1
+"member","Public Rack - Woodlawn Ave & 63rd St S",1
+"member","Public Rack - Princeton Ave & 43rd St",2
+"member","Public Rack - Cottage Grove & 84th St",1
+"member","Public Rack - Karlov Ave & Lawrence Ave",1
+"member","Public Rack - Ewing Ave & 101st St",1
+"member","Public Rack - Maplewood Ave & 63rd St",1
+"member","Public Rack - Mason Ave & Milwaukee Ave",1
+"member","Public Rack - Tuley (Murray) Park",2
+"casual","Public Rack - Tuley (Murray) Park",2
+"member","Public Rack - Leader & Caldwell",1
+"member","Public Rack - Walden Pkwy & 99th St",1
+"member","Public Rack - Piotrowski Park",1
+"member","Public Rack - Hamilton Ave & 95th St",2
+"casual","Public Rack - Ave N & 106th St",1
+"member","Public Rack - Harlem & Palatine",1
+"casual","Public Rack - Wilbur Wright College South",1
+"casual","Public Rack - Kedzie Ave & 54th Pl",1
+"member","Public Rack - Irving Park Rd & Austin Ave",1
+"casual","Public Rack - Marshfield Ave & 45th St",1
+"casual","Sacramento Blvd & Polk St",1
+"casual","Public Rack - Lake Park Ave & 47th St",1
+"casual","Public Rack - Oak Park & Higgins",1
+"casual","Public Rack - Mobile Ave & Archer Ave",1

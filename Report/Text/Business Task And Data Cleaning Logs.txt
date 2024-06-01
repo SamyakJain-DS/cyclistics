@@ -1,0 +1,21 @@
+Business Task : To find out how do annual members and casual riders that use Cyclistics bikes differ.
+
+Data Used: The trip data for the last 12 months, collected by the data analysts team of Cyclists
+
+*Data Cleaning (for all 12 spreadsheets):
+	-Changed the datetime format of start_at and ended_at to yyyy-mm-dd hh:mm:ss
+	-Changed the ride_id, start_station_id and end_station_id format to "text"
+	-Checked for duplicates
+	-Adjusted Cell Lengths to fit
+	-Filled the empty cells in the table with "N/A"
+	-Checked rideable_type and member_casual to make sure there aren't any wrong values
+	-Changed Colour of header row and the rest of the cells of the table, also applied border
+	-Changed alignment
+	-froze row 1
+	-created "trips_duration" by subtracting "started_at" from "ended_at"
+	-created "weekday" column
+
+Merged the 12 sheets into one using Power Query, and created pivot table in the second sheet to analyse data.
+
+
+
