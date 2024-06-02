@@ -2,7 +2,7 @@
 
 The first project from the google professional data analyst course, completed under the course's guidance.
 
-Note : data folder is missing from the files , cause the files were too large and I am currently having trouble trying to upload them.
+Note : data folder is missing from the files , cause the files were too large and I am currently having trouble trying to upload them. This folder contained all the raw data and the excel file that I worked on
 
 ## Objective
 
