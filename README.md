@@ -2,6 +2,8 @@
 
 The first project from the google professional data analyst course, completed under the course's guidance.
 
+Note : data folder is missing from the files , cause the files were too large and I am currently having trouble trying to upload them.
+
 ## Objective
 
 analyse the differences in the way casual consumers use our services vs the way members use them, and devise a marketing strategy.
