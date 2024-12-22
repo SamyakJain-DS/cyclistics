@@ -1,4 +1,4 @@
-# THE FIRST PROJECT: Google Course Case Study Cyclistics.
+# Google Course Case Study Cyclistics.
 
 The first project from the google professional data analyst course, completed under the course's guidance.
 
