@@ -15,6 +15,10 @@ analyse the differences in the way casual consumers use our services vs the way 
 - Presenting the findings and the recommendations using powerpoint
 - Documenting the analysis
 
+# Analysis in SQL
+![image](https://github.com/user-attachments/assets/5b73a830-88ae-43ac-86e6-3fb79e1098a0)
+
+
 ## Screenshots from the presentation
 
 ![image](https://github.com/SamyakJain-DS/cyclistics/assets/142383509/b203903c-7519-41fc-a812-42d7b791efd2)
